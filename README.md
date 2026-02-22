@@ -8,6 +8,14 @@ Welcome to the **McZomboid Project** — a casual, low-commitment Project Zomboi
 
 ---
 
+# ☣️ The McZomboid Project
+
+---
+
+Welcome to the **McZomboid Project**. **If you're not 18+ turn back now.**
+
+---
+
 ## ☣️ Knox County, Kentucky — July 9th, 1993
 
 The phones went dead July 1st. The Army sealed the roads on the 6th. By the 9th, the hospitals were gone, the police were gone, and the dead were getting up.
@@ -30,13 +38,13 @@ No forced scripts. No rails. You shape what's left of the world. Admins facilita
 
 | | |
 |---|---|
-| **Hardware** | Ryzen 9 7950x / 32GB base, up to 100GB DDR5 if needed |
+| **Hardware** | Ryzen 9 7950x / 32GB base, up to 32GB DDR5 |
 | **IP & Port** | `45.45.238.214:16261` |
 | **Location** | US — Chicago |
 | **Version** | Unstable / Latest Branch |
 | **Wipe Policy** | Long-term persistence is the goal. Wipes only if Unstable breaks the save. |
 | **Loot Respawn** | On — see settings in Discord |
-| **Mods** | Skill Journal only. QoL fixes may be added over time. [Full mod list here.](https://steamcommunity.com/sharedfiles/filedetails/?id=3629098822) |
+| **Mods** | [Full mod list here](https://steamcommunity.com/sharedfiles/filedetails/?id=3629098822) |
 
 ### 📝 How to Join
 
