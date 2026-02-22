@@ -7,7 +7,7 @@ SandboxVars = {
     -- 4 = Normal
     -- 5 = Low
     -- 6 = None
-    Zombies = 3,
+    Zombies = 2,
     -- How zombies are distributed across the map. Default = Urban Focused
     -- 1 = Urban Focused
     -- 2 = Uniform
@@ -19,7 +19,7 @@ SandboxVars = {
     -- 2 = Normal
     -- 3 = Low
     -- 4 = None
-    ZombieRespawn = 2,
+    ZombieRespawn = 1,
     -- Zombie allowed to migrate to empty cells.
     ZombieMigrate = true,
     -- Default = 1 Hour, 30 Minutes
@@ -134,43 +134,47 @@ SandboxVars = {
     -- How long alarm batteries can last for after the power shuts off. Min: -1 Max: 2147483647 Default: 14
     AlarmDecayModifier = 14,
     -- Any food that can rot or spoil. Min: 0.00 Max: 4.00 Default: 0.60
-    FoodLootNew = 0.2,
-    -- All items that can be read, includes fliers Min: 0.00 Max: 4.00 Default: 0.60
-    LiteratureLootNew = 0.2,
+    FoodLootNew = 0.5,
+    -- All other items that can be read, including books, fliers, and newspapers. Min: 0.00 Max: 4.00 Default: 0.60
+    LiteratureLootNew = 0.3,
+    -- Books that provide skill XP multipliers. Min: 0.00 Max: 4.00 Default: 0.60
+    SkillBookLoot = 0.6,
+    -- Items that teach recipes. Min: 0.00 Max: 4.00 Default: 0.60
+    RecipeResourceLoot = 0.6,
     -- Medicine, bandages and first aid tools. Min: 0.00 Max: 4.00 Default: 0.60
-    MedicalLootNew = 0.2,
+    MedicalLootNew = 0.4,
     -- Fishing Rods, Tents, camping gear etc. Min: 0.00 Max: 4.00 Default: 0.60
-    SurvivalGearsLootNew = 0.3,
+    SurvivalGearsLootNew = 0.4,
     -- Canned and dried food, beverages. Min: 0.00 Max: 4.00 Default: 0.60
     CannedFoodLootNew = 0.3,
     -- Weapons that are not tools in other categories. Min: 0.00 Max: 4.00 Default: 0.60
-    WeaponLootNew = 0.3,
+    WeaponLootNew = 0.4,
     -- Also includes weapon attachments. Min: 0.00 Max: 4.00 Default: 0.60
-    RangedWeaponLootNew = 0.2,
+    RangedWeaponLootNew = 0.3,
     -- Loose ammo, boxes and magazines. Min: 0.00 Max: 4.00 Default: 0.60
-    AmmoLootNew = 0.3,
+    AmmoLootNew = 0.4,
     -- Vehicle parts and the tools needed to install them. Min: 0.00 Max: 4.00 Default: 0.60
-    MechanicsLootNew = 0.3,
+    MechanicsLootNew = 0.4,
     -- Everything else. Also affects foraging for all items in Town/Road zones. Min: 0.00 Max: 4.00 Default: 0.60
-    OtherLootNew = 0.3,
+    OtherLootNew = 0.4,
     -- All wearable items that are not containers. Min: 0.00 Max: 4.00 Default: 0.60
-    ClothingLootNew = 0.3,
+    ClothingLootNew = 0.4,
     -- Backpacks and other wearable/equippable containers, eg. cases. Min: 0.00 Max: 4.00 Default: 0.60
     ContainerLootNew = 0.3,
     -- Keys for buildings/cars, key rings, and locks. Min: 0.00 Max: 4.00 Default: 0.60
-    KeyLootNew = 0.2,
+    KeyLootNew = 0.3,
     -- VHS tapes and CDs. Min: 0.00 Max: 4.00 Default: 0.60
-    MediaLootNew = 0.2,
+    MediaLootNew = 0.3,
     -- Spiffo items, plushies, and other collectible keepsake items eg. Photos. Min: 0.00 Max: 4.00 Default: 0.60
-    MementoLootNew = 0.3,
+    MementoLootNew = 0.4,
     -- Items that are used in cooking, including those (eg. knives) which can be weapons. Does not include food. Includes both usable and unusable items. Min: 0.00 Max: 4.00 Default: 0.60
-    CookwareLootNew = 0.3,
+    CookwareLootNew = 0.4,
     -- Items and weapons that are used as ingredients for crafting or building. This is a general category that does not include items belonging to other categories such as Cookware or Medical. Does not include Tools. Min: 0.00 Max: 4.00 Default: 0.60
-    MaterialLootNew = 0.3,
+    MaterialLootNew = 0.4,
     -- Items and weapons which are used in both animal and plant agriculture, such as Seeds, Trowels, or Shovels. Min: 0.00 Max: 4.00 Default: 0.60
-    FarmingLootNew = 0.3,
+    FarmingLootNew = 0.4,
     -- Items and weapons which are Tools but don't fit in other categories such as Mechanics or Farming. Min: 0.00 Max: 4.00 Default: 0.60
-    ToolLootNew = 0.3,
+    ToolLootNew = 0.4,
     -- <BHC> [!] It is recommended that you DO NOT change this. [!] <RGB:1,1,1>   Can be used to adjust the number of rolls made on loot tables when spawning loot. Will not reduce the number of rolls below 1. Can negatively affect performance if set to high values. It is highly recommended that this not be changed. Min: 0.10 Max: 100.00 Default: 1.00
     RollsMultiplier = 1.0,
     -- A comma-separated list of item types that won't spawn as ordinary loot.
@@ -180,7 +184,7 @@ SandboxVars = {
     -- If enabled, items on the Loot Item Removal List, or that have their rarity set to 'None', will not spawn worn by, or attached to, zombies.
     RemoveZombieLoot = false,
     -- If greater than 0, the spawn of loot is increased relative to the number of nearby zombies,  with the effect multiplied by this number. Min: 0 Max: 20 Default: 10
-    ZombiePopLootEffect = 10,
+    ZombiePopLootEffect = 15,
     -- Min: 0.00 Max: 0.20 Default: 0.05
     InsaneLootFactor = 0.05,
     -- Min: 0.05 Max: 0.60 Default: 0.20
@@ -213,7 +217,7 @@ SandboxVars = {
     -- 3 = Normal (100 Days)
     -- 4 = Slow (200 Days)
     -- 5 = Very Slow (500 Days)
-    ErosionSpeed = 4,
+    ErosionSpeed = 5,
     -- For a custom Erosion Speed. Zero means use the Erosion Speed option. Maximum is 36,500 days (approximately 100 years). Min: -1 Max: 36500 Default: 0
     ErosionDays = 365,
     -- The speed of plant growth. Default = Normal
@@ -285,15 +289,15 @@ SandboxVars = {
     -- When greater than 0, loot will not respawn in zones that have been visited within this number of in-game hours. Min: 0 Max: 2147483647 Default: 0
     SeenHoursPreventLootRespawn = 0,
     -- When greater than 0, after X hours, all containers in towns and trailer parks in the world will respawn loot. To spawn loot a container must have been looted at least once. Loot respawn is not impacted by visibility or subsequent looting. Min: 0 Max: 2147483647 Default: 0
-    HoursForLootRespawn = 168,
+    HoursForLootRespawn = 1152,
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
-    MaxItemsForLootRespawn = 3,
+    MaxItemsForLootRespawn = 5,
     -- Items will not respawn in buildings that players have barricaded or built in.
     ConstructionPreventsLootRespawn = true,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
     WorldItemRemovalList = "Base.Hat,Base.Glasses,Base.Maggots,Base.Slug,Base.Slug2,Base.Snail,Base.Worm,Base.Dung_Mouse,Base.Dung_Rat",
     -- Number of hours since an item was dropped on the ground before it is removed.  Items are removed the next time that part of the map is loaded.   Zero means items are not removed. Min: 0.00 Max: 2147483647.00 Default: 24.00
-    HoursForWorldItemRemoval = 24.0,
+    HoursForWorldItemRemoval = 8.0,
     -- If true, any items *not* in WorldItemRemovalList will be removed.
     ItemRemovalListBlacklistToggle = false,
     -- How long after the end of the world to begin. This will affect starting world erosion and food spoilage. Does not affect the starting date. Default = 0
@@ -337,7 +341,7 @@ SandboxVars = {
     -- 2 = Once
     -- 3 = Sometimes
     -- 4 = Often
-    Helicopter = 3,
+    Helicopter = 1,
     -- How often zombie-attracting metagame events like distant gunshots will occur. Default = Sometimes
     -- 1 = Never
     -- 2 = Sometimes
@@ -358,7 +362,7 @@ SandboxVars = {
     -- 5 = Normal
     -- 6 = Common
     -- 7 = Abundant
-    GeneratorSpawning = 2,
+    GeneratorSpawning = 3,
     -- How often a looted map will have notes on it, written by a deceased survivor. Default = Sometimes
     -- 1 = Never
     -- 2 = Extremely Rare
@@ -423,7 +427,7 @@ SandboxVars = {
     -- If fires spread when started.
     FireSpread = true,
     -- Number of in-game days before rotten food is removed from the map.  -1 means rotten food is never removed. Min: -1 Max: 2147483647 Default: -1
-    DaysForRottenFoodRemoval = -1,
+    DaysForRottenFoodRemoval = 30,
     -- If enabled, generators will work on exterior tiles.  This will allow, for example, the powering of gas pumps.
     AllowExteriorGenerator = true,
     -- Maximum intensity of fog. Default = Normal
@@ -469,7 +473,7 @@ SandboxVars = {
     -- 7 = Always Tries
     ZoneStoryChance = 5,
     -- Allows you to select from every piece of clothing in the game when customizing your character
-    AllClothesUnlocked = false,
+    AllClothesUnlocked = true,
     -- If tainted water will show a warning marking it as such.
     EnableTaintedWaterText = true,
     -- If vehicles will spawn.
@@ -563,7 +567,7 @@ SandboxVars = {
     -- 1 = Low
     -- 2 = Medium
     -- 3 = High
-    RearVulnerability = 2,
+    RearVulnerability = 3,
     -- If zombies will head towards the sound of vehicle sirens.
     SirenEffectsZombies = true,
     -- Speed at which animals stats (hunger, thirst etc.) reduce. Default = Normal
@@ -589,7 +593,7 @@ SandboxVars = {
     -- 4 = Normal
     -- 5 = Slow
     -- 6 = Very Slow
-    AnimalPregnancyTime = 3,
+    AnimalPregnancyTime = 4,
     -- Speed at which animals age. Default = Fast
     -- 1 = Ultra Fast
     -- 2 = Very Fast
@@ -636,7 +640,7 @@ SandboxVars = {
     -- 4 = Normal
     -- 5 = Slow
     -- 6 = Very Slow
-    AnimalEggHatch = 3,
+    AnimalEggHatch = 4,
     -- If true, animal calls will attract nearby zombies.
     AnimalSoundAttractZombies = false,
     -- The chance of animals leaving tracks. Default = Sometimes
@@ -667,7 +671,7 @@ SandboxVars = {
     -- If true, you will be able to see any recipes that can be done with a station, even if you haven't learnt them yet.
     SeeNotLearntRecipe = false,
     -- If a building has more than this amount of rooms it will not be looted. Min: 0 Max: 200 Default: 50
-    MaximumLootedBuildingRooms = 50,
+    MaximumLootedBuildingRooms = 15,
     -- If poison can be added to food. Default = True
     -- 1 = True
     -- 2 = False
@@ -679,14 +683,14 @@ SandboxVars = {
     -- 3 = Never
     MaggotSpawn = 1,
     -- The higher the value, the longer lightbulbs last before breaking.  If 0, lightbulbs will never break.  Does not affect vehicle headlights. Min: 0.00 Max: 1000.00 Default: 1.00
-    LightBulbLifespan = 5.0,
+    LightBulbLifespan = 1000.0,
     -- The abundance of fish in rivers and lakes. Default = Normal
     -- 1 = Very Poor
     -- 2 = Poor
     -- 3 = Normal
     -- 4 = Abundant
     -- 5 = Very Abundant
-    FishAbundance = 2,
+    FishAbundance = 3,
     -- When a skill is at this level or above, television/VHS/other media  will not provide XP for it. Min: 0 Max: 10 Default: 3
     LevelForMediaXPCutoff = 3,
     -- When a skill is at this level or above, scrapping furniture does not provide XP for the relevant skill. Does not apply to Electrical. Min: 0 Max: 10 Default: 0
@@ -702,7 +706,7 @@ SandboxVars = {
     -- 4 = 1 point penalty for every negative trait selected after the first
     NegativeTraitsPenalty = 1,
     -- The number of in-game minutes it takes to read one page of a skill book. Min: 0.00 Max: 60.00 Default: 2.00
-    MinutesPerPage = 1.0,
+    MinutesPerPage = 0.5,
     -- When enabled, crops and herbs grown inside buildings will die. Does not affect houseplants.
     KillInsideCrops = false,
     -- When enabled, the growth of plants is affected by seasons.
@@ -714,11 +718,11 @@ SandboxVars = {
     -- The abundance of harvested crops. Min: 0.10 Max: 10.00 Default: 1.00
     FarmingAmountNew = 0.75,
     -- The chance that any building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0 Max: 200 Default: 50
-    MaximumLooted = 50,
+    MaximumLooted = 0,
     -- How long it takes for Maximum Looted Building Chance to be reached. Min: 0 Max: 3650 Default: 90
     DaysUntilMaximumLooted = 90,
     -- The chance that any rural building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0.00 Max: 2.00 Default: 0.50
-    RuralLooted = 0.25,
+    RuralLooted = 0.0,
     -- The maximum loot that won't spawn when Days Until Maximum Diminished Loot is reached. Check the "Advanced" box below to use an exact percentage. Min: 0 Max: 100 Default: 0
     MaximumDiminishedLoot = 0,
     -- How long it takes for Maximum Diminished Loot Percentage to be reached. Min: 0 Max: 3650 Default: 3650
@@ -755,6 +759,9 @@ SandboxVars = {
     GeneratorTileRange = 20,
     -- How many levels both above and below a generator it can provide with electricity. Min: 1 Max: 15 Default: 3
     GeneratorVerticalPowerRange = 15,
+    VRO_EnableEngineRebuild = false,
+    VRO_UseVanillaFixingRecipes = false,
+    VRO_EnableFullVehicleSalvaging = true,
     Basement = {
         -- How frequently basements spawn at random locations. Default = Sometimes
         -- 1 = Never
@@ -772,7 +779,7 @@ SandboxVars = {
         -- If enabled, the world map can be accessed.
         AllowWorldMap = true,
         -- If enabled, the world map will be completely filled in on starting the game.
-        MapAllKnown = false,
+        MapAllKnown = true,
         -- If enabled, maps can't be read unless there's a source of light available.
         MapNeedsLight = true,
     },
@@ -826,6 +833,8 @@ SandboxVars = {
         -- 3 = Basic Navigation
         -- 4 = Random
         Cognition = 3,
+        -- Min: 0 Max: 100 Default: 33
+        DoorOpeningPercentage = 33,
         -- How often zombies can crawl under parked vehicles. Default = Often
         -- 1 = Crawlers Only
         -- 2 = Extremely Rare
@@ -849,14 +858,14 @@ SandboxVars = {
         -- 3 = Poor
         -- 4 = Random
         -- 5 = Random between Normal and Poor
-        Sight = 5,
+        Sight = 4,
         -- Zombie hearing radius. Default = Random between Normal and Poor
         -- 1 = Pinpoint
         -- 2 = Normal
         -- 3 = Poor
         -- 4 = Random
         -- 5 = Random between Normal and Poor
-        Hearing = 5,
+        Hearing = 4,
         -- Activates the new advanced stealth mechanics, which allows you to hide from zombies behind cars, takes traits and weather into account, and much more.
         SpottedLogic = true,
         -- If zombies that have not seen/heard player can attack doors and constructions while roaming.
@@ -873,7 +882,7 @@ SandboxVars = {
         -- If multiple attacking zombies can drag you down and kill you.  Dependent on zombie strength.
         ZombiesDragDown = true,
         -- If crawler zombies beside a player contribute to the chance of being dragged down and killed by a group of zombies.
-        ZombiesCrawlersDragDown = false,
+        ZombiesCrawlersDragDown = true,
         -- If zombies have a chance to lunge at you after climbing over a fence or through a window if you're too close.
         ZombiesFenceLunge = true,
         -- Serves as a multiplier when determining the effectiveness of armor worn by zombies. Min: 0.00 Max: 100.00 Default: 2.00
@@ -904,23 +913,23 @@ SandboxVars = {
         -- Set by the "Zombie Count" population option, or by a custom number here. Insane = 2.5, Very High = 1.6, High = 1.2, Normal = 0.65, Low = 0.15, None = 0.0. Min: 0.00 Max: 4.00 Default: 0.65
         PopulationMultiplier = 1.6,
         -- A multiplier for the desired zombie population at the start of the game. Insane = 3.0, Very High = 2.0, High = 1.5, Normal = 1.0, Low = 0.5, None = 0.0. Min: 0.00 Max: 4.00 Default: 1.00
-        PopulationStartMultiplier = 0.75,
+        PopulationStartMultiplier = 0.8,
         -- A multiplier for the desired zombie population on the peak day. Insane = 3.0, Very High = 2.0, High = 1.5, Normal = 1.0, Low = 0.5, None = 0.0. Min: 0.00 Max: 4.00 Default: 1.50
-        PopulationPeakMultiplier = 1.75,
+        PopulationPeakMultiplier = 1.8,
         -- The day when the population reaches its peak. Min: 1 Max: 365 Default: 28
         PopulationPeakDay = 45,
         -- The number of hours that must pass before zombies may respawn in a cell. If 0, spawning is disabled. Min: 0.00 Max: 8760.00 Default: 72.00
-        RespawnHours = 48.0,
+        RespawnHours = 72.0,
         -- The number of hours that a chunk must be unseen before zombies may respawn in it. Min: 0.00 Max: 8760.00 Default: 16.00
         RespawnUnseenHours = 16.0,
         -- The fraction of a cell's desired population that may respawn every RespawnHours. Min: 0.00 Max: 1.00 Default: 0.10
         RespawnMultiplier = 0.1,
         -- The number of hours that must pass before zombies migrate  to empty parts of the same cell. If 0, migration is disabled. Min: 0.00 Max: 8760.00 Default: 12.00
-        RedistributeHours = 12.0,
+        RedistributeHours = 48.0,
         -- The distance a zombie will try to walk towards the last sound it heard. Min: 10 Max: 1000 Default: 100
         FollowSoundDistance = 100,
         -- The size of groups real zombies form when idle. 0 means zombies don't form groups. Groups don't form inside buildings or forest zones. Min: 0 Max: 1000 Default: 20
-        RallyGroupSize = 40,
+        RallyGroupSize = 20,
         -- The amount, as a percentage, that zombie groups can vary in size from the default (both larger and smaller).   For example, at 50% variance with a default group size of 20, groups will vary in size from 10-30. Min: 0 Max: 100 Default: 50
         RallyGroupSizeVariance = 50,
         -- The distance real zombies travel to form groups when idle. Min: 5 Max: 50 Default: 20
@@ -934,7 +943,7 @@ SandboxVars = {
     },
     MultiplierConfig = {
         -- The rate at which all skills level up. Min: 0.00 Max: 1000.00 Default: 1.00
-        Global = 1.0,
+        Global = 2.0,
         -- When enabled, all skills will use the Global Multiplier.
         GlobalToggle = true,
         -- Rate at which Fitness skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
@@ -1031,12 +1040,190 @@ SandboxVars = {
         RecoverSurvivalistSkills = -1,
         -- Min: -1 Max: 100 Default: -1
         RecoverFarmingCategorySkills = -1,
+        -- Min: -1 Max: 100 Default: 0
+        KillsTrack = 100,
         RecoverRecipes = true,
         RecoveryJournalUsed = false,
-        -- Min: 0 Max: 100 Default: 0
-        KillsTrack = 100,
+        SecurityFeatures = 1,
+        CraftRecipeNeedLearn = false,
         CraftRecipe = "item 1 [Base.Notebook;Base.Journal] flags[Prop2] mode:destroy| item 1 tags[Glue] flags[Prop1]| item 3 [Base.LeatherStrips;Base.LeatherStripsDirty] mode:destroy| item 1 [Base.Thread;Base.Yarn]",
         ModDataTrack = "",
-        SecurityFeatures = 1,
+    },
+    HereGoesTheSun = {
+        EnableGodRays = true,
+        EnableStormMood = true,
+        StormMoodPreset = 2,
+    },
+    BetterSafehouse = {
+        EnableSafehouseViewer = true,
+        EnhancedInvites = true,
+        -- Min: 0 Max: 20 Default: 0
+        MaxJoinedSafehouses = 0,
+        AdminsFreeAddToSafehouse = true,
+        CustomClaimEnabled = false,
+        CustomClaimItemCustomSafehouse = false,
+        CustomClaimFreeAnywhere = 3,
+        -- Min: 3 Max: 200 Default: 31
+        CustomSafehouseSize = 31,
+        CustomClaimRestrictLocations = false,
+        -- Min: 0 Max: 200 Default: 10
+        CustomClaimRestrictDistance = 10,
+    },
+    WanderingZombies = {
+        Destructive = 4,
+        -- Min: 10 Max: 100 Default: 40
+        MaxTravel = 40,
+        Counter = 5,
+        -- Min: 1 Max: 9999999 Default: 5
+        NumTicks = 6,
+        -- Min: 0 Max: 9999999 Default: 10
+        RandTicks = 6,
+        DropdownStartHour = 2,
+        -- Min: 0 Max: 23 Default: 0
+        MinStartHour = 0,
+        -- Min: 0 Max: 23 Default: 0
+        MaxStartHour = 23,
+        DropdownTotalHours = 2,
+        -- Min: 0 Max: 24 Default: 0
+        MinTotalHours = 0,
+        -- Min: 0 Max: 24 Default: 24
+        MaxTotalHours = 24,
+        DropdownWanderChance = 2,
+        -- Min: 0 Max: 100 Default: 0
+        MinWanderChance = 0,
+        -- Min: 0 Max: 100 Default: 100
+        MaxWanderChance = 100,
+        DropdownHomingStartHour = 1,
+        -- Min: 0 Max: 23 Default: 0
+        MinHomingStartHour = 0,
+        -- Min: 0 Max: 23 Default: 0
+        MaxHomingStartHour = 0,
+        DropdownHomingTotalHours = 1,
+        -- Min: 0 Max: 24 Default: 0
+        MinHomingTotalHours = 0,
+        -- Min: 0 Max: 24 Default: 24
+        MaxHomingTotalHours = 0,
+        DropdownToPlayers = 1,
+        -- Min: 0 Max: 100 Default: 0
+        MinToPlayers = 0,
+        -- Min: 0 Max: 100 Default: 20
+        MaxToPlayers = 0,
+        DropdownRadius = 1,
+        -- Min: 0 Max: 90 Default: 0
+        MinRadius = 0,
+        -- Min: 0 Max: 90 Default: 70
+        MaxRadius = 0,
+        RadiusInterrupt = 2,
+        DropdownFleeStartHour = 1,
+        -- Min: 0 Max: 23 Default: 0
+        MinFleeStartHour = 0,
+        -- Min: 0 Max: 23 Default: 0
+        MaxFleeStartHour = 0,
+        DropdownFleeTotalHours = 1,
+        -- Min: 0 Max: 24 Default: 0
+        MinFleeTotalHours = 0,
+        -- Min: 0 Max: 24 Default: 24
+        MaxFleeTotalHours = 0,
+        DropdownFleePlayers = 1,
+        -- Min: 0 Max: 100 Default: 0
+        MinFleePlayers = 0,
+        -- Min: 0 Max: 100 Default: 0
+        MaxFleePlayers = 0,
+        DropdownFleeRadius = 1,
+        -- Min: 0 Max: 90 Default: 0
+        MinFleeRadius = 0,
+        -- Min: 0 Max: 90 Default: 0
+        MaxFleeRadius = 0,
+        Hordes = true,
+        Merge = false,
+        -- Min: 0 Max: 9999999 Default: 3000
+        MergeCooldown = 3000,
+        GroupBySpeed = false,
+        AllowSprinters = false,
+        AllowFastShamblers = true,
+        AllowShamblers = true,
+        AllowCrawlers = true,
+        HordeDestructive = 4,
+        -- Min: 10 Max: 100 Default: 40
+        HordeMaxTravel = 40,
+        HordeCounter = 5,
+        -- Min: 1 Max: 9999999 Default: 5
+        HordeNumTicks = 48,
+        -- Min: 0 Max: 9999999 Default: 10
+        HordeRandTicks = 48,
+        -- Min: 0.00 Max: 100.00 Default: 0.00
+        FollowerTicks = 0.0,
+        DropdownHordeStartHour = 2,
+        -- Min: 0 Max: 23 Default: 0
+        MinHordeStartHour = 0,
+        -- Min: 0 Max: 23 Default: 0
+        MaxHordeStartHour = 23,
+        DropdownHordeTotalHours = 2,
+        -- Min: 0 Max: 24 Default: 0
+        MinHordeTotalHours = 0,
+        -- Min: 0 Max: 24 Default: 24
+        MaxHordeTotalHours = 24,
+        DropdownHordeWanderChance = 2,
+        -- Min: 0 Max: 100 Default: 0
+        MinHordeWanderChance = 0,
+        -- Min: 0 Max: 100 Default: 100
+        MaxHordeWanderChance = 100,
+        DropdownHordeHomingStartHour = 1,
+        -- Min: 0 Max: 23 Default: 0
+        MinHordeHomingStartHour = 0,
+        -- Min: 0 Max: 23 Default: 0
+        MaxHordeHomingStartHour = 0,
+        DropdownHordeHomingTotalHours = 1,
+        -- Min: 0 Max: 24 Default: 0
+        MinHordeHomingTotalHours = 0,
+        -- Min: 0 Max: 24 Default: 24
+        MaxHordeHomingTotalHours = 0,
+        DropdownHordeToPlayers = 1,
+        -- Min: 0 Max: 100 Default: 0
+        MinHordeToPlayers = 0,
+        -- Min: 0 Max: 100 Default: 20
+        MaxHordeToPlayers = 0,
+        DropdownHordeRadius = 1,
+        -- Min: 0 Max: 90 Default: 0
+        MinHordeRadius = 0,
+        -- Min: 0 Max: 90 Default: 70
+        MaxHordeRadius = 0,
+        HordeRadiusInterrupt = 2,
+        DropdownHordeFleeStartHour = 1,
+        -- Min: 0 Max: 23 Default: 0
+        MinHordeFleeStartHour = 0,
+        -- Min: 0 Max: 23 Default: 0
+        MaxHordeFleeStartHour = 0,
+        DropdownHordeFleeTotalHours = 1,
+        -- Min: 0 Max: 24 Default: 0
+        MinHordeFleeTotalHours = 0,
+        -- Min: 0 Max: 24 Default: 24
+        MaxHordeFleeTotalHours = 0,
+        DropdownHordeFleePlayers = 1,
+        -- Min: 0 Max: 100 Default: 0
+        MinHordeFleePlayers = 0,
+        -- Min: 0 Max: 100 Default: 0
+        MaxHordeFleePlayers = 0,
+        DropdownHordeFleeRadius = 1,
+        -- Min: 0 Max: 90 Default: 0
+        MinHordeFleeRadius = 0,
+        -- Min: 0 Max: 90 Default: 0
+        MaxHordeFleeRadius = 0,
+        -- Min: 1 Max: 100 Default: 20
+        UpdateZedLimit = 20,
+        -- Min: 1 Max: 4 Default: 2
+        UpdateMsLimit = 2,
+        TryStopVirtual = false,
+        -- Min: 0 Max: 99999999 Default: 0
+        HoursSurvived = 0,
+    },
+    WZS = {
+        S1 = false,
+        S2 = false,
+        S3 = false,
+        S4 = false,
+        HS1 = false,
+        HS2 = false,
+        HS3 = false,
     },
 }

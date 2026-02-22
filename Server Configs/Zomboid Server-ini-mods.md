@@ -11,7 +11,7 @@ PVPLogToolFile=true
 PauseEmpty=true
 
 # Toggles global chat on or off.
-GlobalChat=false
+GlobalChat=true
 
 ChatStreams=s,r,a,w,y
 
@@ -19,7 +19,7 @@ ChatStreams=s,r,a,w,y
 Open=false
 
 # The first welcome message visible in the chat panel. This will be displayed immediately after player login. you can use RGB colours to chance the colour of the welcome message. You can also use < LINE>, without the space, to create a separate lines within your text. Use: \<RGB:1,0,0> This message will show up red!
-ServerWelcomeMessage=Welcome to Project Zomboid Multiplayer! <LINE> <LINE> To interact with the Chat panel: press Tab, T, or Enter. <LINE> <LINE> The Tab key will change the target stream of the message. <LINE> <LINE> Global Streams: /all <LINE> Local Streams: /say, /yell <LINE> Special Steams: /whisper, /safehouse, /faction. <LINE> <LINE> Press the Up arrow to cycle through your message history. Click the Gear icon to customize chat. <LINE> <LINE> Happy surviving!
+ServerWelcomeMessage=Welcome to Project Zomboid Multiplayer! <LINE> <LINE> To interact with the Chat panel: T. <LINE> <LINE> The Tab key will change the target stream of the message. <LINE> <LINE> Global Streams: /all <LINE> Local Streams: /say, /yell <LINE> Special Steams: /whisper, /safehouse, /faction. <LINE> <LINE> Press the Up arrow to cycle through your message history. Click the Gear icon to customize chat. <LINE> <LINE> Happy surviving!
 
 ServerImageLoginScreen=
 
@@ -31,10 +31,10 @@ ServerImageIcon=
 AutoCreateUserInWhiteList=false
 
 # Display usernames above player's heads in-game.
-DisplayUserName=true
+DisplayUserName=false
 
 # Display first & last name above player's heads.
-ShowFirstAndLastName=true
+ShowFirstAndLastName=false
 
 UsernameDisguises=true
 
@@ -61,7 +61,7 @@ SafetyCooldownTimer=5
 SafetyDisconnectDelay=60
 
 # Item types new players spawn with. Separate multiple item types with commas. Example: Base.Axe,Base.Bag_BigHikingBag
-SpawnItems=
+SpawnItems=Base.HandTorch,Base.Battery
 
 # Default starting port for player data. If UDP, this is this one of two ports used. Min: 0 Max: 65535 Default: 16261
 DefaultPort=16261
@@ -69,35 +69,35 @@ DefaultPort=16261
 # Min: 0 Max: 65535 Default: 16262
 UDPPort=16262
 
-# Reset ID determines if the server has undergone a soft-reset. If this number does match the client, the client must create a new character. Used in conjunction with PlayerServerID. It is strongly advised that you backup these IDs somewhere Min: 0 Max: 2147483647 Default: 370190027
-ResetID=2906942
+# Reset ID determines if the server has undergone a soft-reset. If this number does match the client, the client must create a new character. Used in conjunction with PlayerServerID. It is strongly advised that you backup these IDs somewhere Min: 0 Max: 2147483647 Default: 872932591
+ResetID=130442
 
 # Enter the mod loading ID here. It can be found in \Steam\steamapps\workshop\modID\mods\modName\info.txt
-Mods=
+Mods=\errorMagnifier;\ChuckleberryFinnAlertSystem;\Frogtown;\Maplewood;\SkillRecoveryJournal;\FasterHoodOpening;\HereGoesTheSun;\MoreDescriptionForTraits4213;\FixedLightOnBeltAF;\TellMeWhereYouAre;\CraftPropane;\HideDebugMenu;\BetterSafehouse;\simpleStatusFixed;\SafeUserLogin;\Animalsdonotattackbuildings;\Animalsdonotattackothermale;\Animalsdonotattackplayer;\Animalsdonotstressaboveground;\WanderingZombies;\SpareEnginePartsCrafting;\VehicleSalvageOverhaulB42
 
 # Enter the foldername of the mod found in \Steam\steamapps\workshop\modID\mods\modName\media\maps\
-Map=Muldraugh, KY
+Map=Frogtown;Maplewood;Muldraugh, KY
 
 # Kick clients whose game files don't match the server's.
-DoLuaChecksum=true
+DoLuaChecksum=false
 
 DenyLoginOnOverloadedServer=true
 
 # Shows the server on the in-game browser. (Note: Steam-enabled servers are always visible in the Steam server browser)
-Public=false
+Public=true
 
 # Name of the server displayed in the in-game browser and, if applicable, the Steam browser
-PublicName=My PZ Server
+PublicName=McGaming Community Zomboid Server
 
 # Description displayed in the in-game public server browser. Typing   will create a new line in your description
-PublicDescription=
+PublicDescription=Whitelisted Free-Form RP Server. Discord Server: discord.gg/g8qWmFQQCq
 
 # Maximum number of players that can be on the server at one time. This excludes admins.
 # WARNING: Server player counts above 32 will potentially result in poor map streaming and desync. Please advance with caution. Min: 1 Max: 100 Default: 32
 MaxPlayers=32
 
 # Ping limit, in milliseconds, before a player is kicked from the server. (Set to 0 to disable) Min: 0 Max: 2147483647 Default: 0
-PingLimit=0
+PingLimit=2147483647
 
 # Items will not respawn in buildings that players have claimed as a safehouse
 SafehousePreventsLootRespawn=true
@@ -111,8 +111,11 @@ NoFire=false
 # If checked, every time a player dies a global message will be displayed in the chat
 AnnounceDeath=false
 
+# If checked, every time an animal dies a global message will be displayed in the chat
+AnnounceAnimalDeath=false
+
 # Loaded parts of the map are saved after this set number of real-world minutes have passed. (The map is usually saved only after clients leave a loaded area) Min: 0 Max: 2147483647 Default: 0
-SaveWorldEveryMinutes=0
+SaveWorldEveryMinutes=60
 
 # Both admins and players can claim safehouses
 PlayerSafehouse=true
@@ -141,7 +144,7 @@ SafeHouseRemovalTime=720
 # Governs whether players can claim non-residential buildings.
 SafehouseAllowNonResidential=true
 
-SafehouseDisableDisguises=true
+SafehouseDisableDisguises=false
 
 # Min: 0 Max: 2147483647 Default: 20000
 MaxSafezoneSize=20000
@@ -151,6 +154,8 @@ AllowDestructionBySledgehammer=true
 
 # Allow players to destroy world objects only in their safehouse (require AllowDestructionBySledgehammer to true).
 SledgehammerOnlyInSafehouse=false
+
+War=true
 
 # Time in seconds before the war starts. Min: 60 Max: 2147483647 Default: 600
 WarStartDelay=600
@@ -176,11 +181,14 @@ DiscordEnable=true
 # Discord bot access token
 DiscordToken=
 
-# The Discord channel name. (Try the separate channel ID option if having difficulties)
-DiscordChannel=
+# The Discord chat channel name
+DiscordChatChannel=
 
-# The Discord channel ID. (Use if having difficulties with Discord channel name option)
-DiscordChannelID=
+# The Discord logs channel name
+DiscordLogChannel=
+
+# The Discord commands channel name
+DiscordCommandChannel=
 
 # The Slack incoming webhook URL
 WebhookAddress=
@@ -189,7 +197,7 @@ WebhookAddress=
 Password=
 
 # Limits the number of different accounts a single Steam user may create on this server. Ignored when using the Hosts button. Min: 0 Max: 2147483647 Default: 0
-MaxAccountsPerUser=3
+MaxAccountsPerUser=10
 
 # Allow co-op/splitscreen players
 AllowCoop=true
@@ -208,7 +216,7 @@ SneakModeHideFromOtherPlayers=true
 UltraSpeedDoesnotAffectToAnimals=false
 
 # List Workshop Mod IDs for the server to download. Each must be separated by a semicolon. Example: WorkshopItems=514427485;513111049
-WorkshopItems=
+WorkshopItems=2896041179;3077900375;3449473111;3644794945;2503622437;2584112711;3618557184;3623919908;3625933422;3629549809;3634065654;3554048011;3634569678;3399432867;3232993626;3469436421;2983905789;3654864424;2757712197
 
 # Show Steam usernames and avatars in the Players list.
 SteamScoreboard=true
@@ -307,7 +315,7 @@ BanKickGlobalSound=true
 RemovePlayerCorpsesOnCorpseRemoval=false
 
 # If true, player can use the "delete all" button on bins.
-TrashDeleteAll=false
+TrashDeleteAll=true
 
 # If true, player can hit again when struck by another player.
 PVPMeleeWhileHitReaction=true
