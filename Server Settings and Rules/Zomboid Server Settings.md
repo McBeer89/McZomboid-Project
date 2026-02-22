@@ -47,7 +47,7 @@ Not sure on your time? Check here: <https://dateful.com/convert/utc>
 
 Population: 1.6 (Very High)
 
-Peak Pop/Day: 2.0/Day 45.
+Peak Pop/Day: 1.8/Day 45.
 
 Respawn amount: slightly increased (Subject to change),  timer is default.
 
