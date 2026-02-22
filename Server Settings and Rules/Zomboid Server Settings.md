@@ -172,6 +172,17 @@ If a reset is unavoidable, we will attempt to preserve: Characters, Vehicles, Sa
 
 Disclaimer: Due to the nature of the Unstable Branch, we cannot guarantee that data transfers will be successful. We will try our best.
 
+**Mod Settings:**
+
+**Migrating Zombies Mod Settings:**
+Lone Zombies Translation: At any point during a day every 6-12 hours they will migrate.
+
+Horde Translation: Same as above except every 48-96 hours.
+
+Virtual Stop: Off, this means zombies can wander away out of a chunk a player is in. So it's possible a horde will leave the area for example.
+
+Other Settings: Homing and Fleeing are not enabled.
+
 🎮 **HOW TO JOIN**
 
 ⚠️ ***Note: You must be Whitelisted before following these steps.***
