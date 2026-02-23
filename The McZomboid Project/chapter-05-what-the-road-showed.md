@@ -86,7 +86,7 @@ The truck moved through the morning. Hicks breathed.
 
 "Forty seconds from first movement to standing. He'd been down longer — I don't know how long."
 
-"The server settings say zero to one minute," Diane said, quiet and precise. Then she seemed to register that she'd said it out loud and added, in the same quiet voice: "I heard it in the waiting room. Someone who'd been listening to shortwave." A pause. "It lines up with what I saw at Cortman."
+"Less than a minute," Diane said. Quiet, like she was confirming something she'd been carrying for a while. "That's what I saw at Cortman. And I heard the same from someone in the waiting room on the second — he'd been on shortwave all night. Said it was consistent. Under a minute from the time they went down."
 
 Vasquez looked at her.
 
