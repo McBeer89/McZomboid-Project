@@ -13,7 +13,7 @@ The server runs on the **Unstable Branch** of Project Zomboid. Admins are not re
 
 ## 🛠️ Mods & Installation
 
-Subscribe to the mod collection via the pinned **Steam Workshop link** in Discord before joining. The server will also handle it automatically on connection.
+Subscribe to the mod collection via the **[Steam Workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=3629098822)** before joining. The server will also handle it automatically on connection.
 
 The main mod is the **Skill Journal** — it lets you record and restore your character's skills if progress is lost. Additional mods cover bug fixes and features missing from Build 42.
 

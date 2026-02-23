@@ -93,7 +93,7 @@ We use the **Claim War** mechanic to simulate raids. Abusing it to grief will ge
 
 ### C — Victory Conditions
 
-**The Hard Way (Combat):** Attackers need **4 defender kills** to breach. Each kill damages safehouse protection; once the threshold is reached, containers unlock. Fighting ends at breach — respawning defenders act as hostages until the scene wraps up.
+**The Hard Way (Combat):** Attackers need **4 unique defender kills** to breach. Each kill damages safehouse protection; once the threshold is reached, containers unlock. Only one kill per defender counts toward the total — do not kill respawning defenders to pad the count. Fighting ends at breach — respawning defenders act as hostages until the scene wraps up.
 
 **The Easy Way (Surrender):** Defenders temporarily add one attacker to the Safehouse Allow-list. Remove them once the looting limit is reached.
 

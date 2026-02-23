@@ -2,16 +2,6 @@
 
 ---
 
-Welcome to the **McZomboid Project** — a casual, low-commitment Project Zomboid roleplay server for adults. No mandatory schedules, no drama, no pressure. Just drop in, survive a bit, and have fun.
-
-> 🔞 **This community is 18+.** Mature themes come up in survival RP and general chat — we expect everyone to be on equal footing.
-
----
-
-# ☣️ The McZomboid Project
-
----
-
 Welcome to the **McZomboid Project**. **If you're not 18+ turn back now.**
 
 ---
@@ -39,7 +29,7 @@ No forced scripts. No rails. You shape what's left of the world. Admins facilita
 | | |
 |---|---|
 | **Hardware** | Ryzen 9 7950x / 32GB base, up to 32GB DDR5 |
-| **IP & Port** | `45.45.238.214:16261` |
+| **IP & Port** | `45.45.238.132:16261` |
 | **Location** | US — Chicago |
 | **Version** | Unstable / Latest Branch |
 | **Wipe Policy** | Long-term persistence is the goal. Wipes only if Unstable breaks the save. |
