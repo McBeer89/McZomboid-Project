@@ -1,5 +1,7 @@
 # Chapter Ten — "Inside and Outside"
 
+*Checkpoint Harlan, Lincoln County, Kentucky. July 12, 1993.*
+
 ---
 
 The generator on the east side had changed pitch overnight.
