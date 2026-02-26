@@ -1,6 +1,6 @@
 # Press Play — Characters
 
-*Updated through Chapter Eleven.*
+*Updated through Chapter Twelve.*
 
 > **⚠️ This file is a working reference document — a living memory of each character used for continuity while writing. It is not a companion piece to the story. "Status" sections contain full spoilers and are maintained to track character state, open threads, and arc position across chapters. If you're reading the story for the first time, stop at each character description.**
 
@@ -22,7 +22,7 @@ Big man gone thick through the middle. Broad shoulders, rough hands, short grayi
 **Flaws:** Carries weight silently until it bends him. Struggles with loss of control — needs to be the decision-maker, and environments where he has no standing cost him. Can become rigid when the arithmetic says one thing and the human cost says another.
 
 > **⚠️ Status**
-> Left Harlan July 14 driving the Bronco with his family, Lena, and Amy Briars. Two vehicles, ten people heading north into the zone. Has fully accepted that the zone is not a quarantine — it's a preview of what's coming everywhere. Marcus settled as an asset. Del injured. Amy orphaned. The group that left Harlan is his responsibility now, and it's larger and more fragile than the family unit he started with. Vasquez and Morrow's squad are unaccounted for — Gary took the second vehicle partly because he was thinking about people who weren't there yet. The shift from decision-maker to civilian-with-no-standing inside Harlan is over — he's leading again, and the tab is longer.
+> Stopped the group at a gas station on a county road north/east of Harlan, night of July 14. Killed his first infected — Dale, the gas station owner, with a tire iron. Two swings. The first wrong, the second final. Dragged the body into the bathroom and closed the door before bringing the group inside. Jesse saw him come out with the iron and understood; neither spoke about it. This is a threshold moment — the knowing became doing, and the cost is in his hands. Admitted "I don't know" to Diane about destination — the first time since July 4th. Named east as the direction: rural, small towns, the most time before the worst catches up. Not a destination — a logic. Leading again, the tab longer than ever. Vasquez and Morrow still unaccounted for. The group of ten is his responsibility.
 
 ---
 
@@ -38,7 +38,7 @@ Compact, dark hair in a practical knot, sharp brown eyes. Moves without waste.
 **Flaws:** The wall between function and feeling is load-bearing. What she saw at Cortman on July 3rd is still in her. That weight doesn't leave.
 
 > **⚠️ Status**
-> In the Suburban with Del (broken ribs, her patient), Ruth, and Marcus driving. Inside Harlan, the intelligence pipeline ran through her — Vasquez brought information and supplies to her, not Gary. The woman in the hallway at Cortman, the thirty seconds alone at the supply shelf in Ch. 8 — that's who she is. Vasquez's "consolidation" warning proved accurate; the friendship is established but Vasquez didn't make the departure. Diane's role has expanded from family medic to group medic. The parallel family connection through the Briars is now a direct obligation — Frank and Carol didn't make it out. Amy is in the Bronco with the family.
+> Group medic, fully operational. Examined Del at the gas station — ribs 7 and 8 broken, possible hairline on 9, no pneumothorax. Wrapped his ribs, gave him the limits: no lifting, no twisting, six weeks minimum. Moved through the group with the diagnostic eye — assessed everyone without announcing it. Sat with Amy briefly; didn't ask if she was okay, told her "you're here, we're here, tomorrow is tomorrow." Had the private moment with Gary — the "where do we go" conversation. Received "I don't know" and accepted it. East. The wall between function and feeling is still load-bearing and she's still working, which is how she holds it up. Vasquez didn't make the departure; the friendship is established but separated.
 
 ---
 
@@ -54,7 +54,7 @@ His father's height, still lean, dark hair worn a little long. A face learning t
 **Flaws:** Sixteen. Still forming. The intellectual framework can become a substitute for feeling — he analyzes when he should grieve. The weight of what he processes daily is accumulating faster than his ability to metabolize it.
 
 > **⚠️ Status**
-> In the Bronco with Gary, Lena, Lily, and Amy. The Jesse/Lena dynamic is a functioning intelligence relay and a genuine friendship. His recount of July 4th to Lena (Ch. 10) was his first real externalization of trauma — she wrote it down, which made it real and outside of him. Identified Briggs' and Webb's vacancies as a category of thing without knowing the cause. Carried Lily during the Harlan escape, got Amy moving, went back for Del — the July 4th walk broke something open and the curriculum rebuilt around it. Moves toward danger now, not away. The fear is still there but he functions through it. Amy Briars is in his orbit; that thread is primed but unstarted.
+> Running on fumes. Two days of maximum output — the July 4th recount to Lena, carrying Lily through the escape, getting Amy moving, going back for Del, and now this. Saw Gary come out of the gas station with the tire iron and understood what had happened inside. Neither spoke. The curriculum now includes watching his father cross a line. Working the intelligence relay with Lena — heard the shortwave reports of the collapse (perimeter breach, Louisville evacuating, outbreaks outside the zone) and carried it to Gary. Learning calibration from Lena: "your dad gets all of it, the rest we calibrate." Amy is in his orbit; the thread remains primed but unstarted.
 
 ---
 
@@ -70,7 +70,7 @@ Small for her age, her mother's dark eyes, her father's jaw when she sets it. Ha
 **Flaws:** Seven. Processing a world-ending event through a seven-year-old's framework, which means the feelings arrive without the language to hold them.
 
 > **⚠️ Status**
-> In the Bronco on Jesse's lap. Shaking — a fine continuous tremor that is new as of the Harlan escape. The Walkman tape ran out days ago; she presses play anyway. The blank hiss is the ritual now. Found Amy on her own initiative (Ch. 8) — shared silence, the blank tape running. Amy is beside her; the bond is deepening. Lily will be as much an anchor for Amy as Amy was becoming for her. The past-tense slip Amy made about her mother in Ch. 8 has become literal.
+> The tremor from the Harlan escape stopped during the drive — whether temporary resolution or pause is unclear. At the gas station, went to Amy on her own initiative — no one told her to. Sat beside her. Put the headphones on, pressed play on the blank tape, placed one headphone pad against Amy's knee. The hiss shared between them. This is the closing image of the Harlan Arc: two girls in the dark, the sound of nothing playing. The Walkman ritual has expanded from self-soothing to connection — Lily is doing for Amy what the tape does for her. Anchor for Amy is now active, not potential.
 
 ---
 
@@ -90,7 +90,7 @@ Broad shoulders, foreman's hands, close-cropped gray hair. A particular exhauste
 **Flaws:** Fifty-five and burning fuel he doesn't have. Mother in Vine Grove — inside the zone, unaccounted for.
 
 > **⚠️ Status**
-> In the Suburban, passenger seat. At least two broken ribs — sustained saving Amy Briars when she fought to go back for her parents during the Harlan escape. His knee on the curb, her weight on top of him, her elbow in his side. Human injury, not infected. Diane is treating him. The injury changes his physicality going forward. Friendship with Gary is established — two practical men who've stopped being surprised and started being useful. Carried critical intelligence about Louisville conditions and the perimeter's true nature (delivered Ch. 9). His mother in Vine Grove is a thread that has been present since introduction but never pulled.
+> Diagnosed by Diane at the gas station: ribs 7 and 8 broken, possible hairline on 9. No flail segment, no pneumothorax. Wrapped. Can walk, ride, talk. Cannot lift, twist, fight, or take a deep breath without paying for it. Six weeks minimum recovery — the foreman who saved Amy by holding her now needs help getting out of the truck. The injury inverts his role and changes his physicality for the foreseeable future. Accepted Diane's orders with his particular exhausted fury. The Amy/Del thread is planted — he broke his ribs holding her, said the words her parents would have said. That foundation accrues. His mother in Vine Grove remains unresolved.
 
 ---
 
@@ -104,7 +104,7 @@ Broad shoulders, foreman's hands, close-cropped gray hair. A particular exhauste
 **Flaws:** Backstory is unrevealed, which means her motivations are partially opaque. Unsentimental can shade into cold when warmth is what people need.
 
 > **⚠️ Status**
-> In the Suburban with Diane, Del, and Marcus. De facto organizer of the Harlan civilian block since July 7th — clipboard, walking shoes, canvas bag. Foil for Gary: she organizes from within the group, he leads from the front. Left Harlan without hesitation — she'd read the situation before Gary spoke. The clipboard is gone. Her role in the traveling group is unestablished but her skillset is immediately relevant.
+> Skills translating to the road. No clipboard — organizing by hand and memory. Inventoried the group's supplies at the gas station: fourteen cans, six water jugs, two blankets, medical kit, plus whatever's left on the shelves. Held the flashlight for Diane's examination of Del — practical, no commentary. Sat with Lily while Jesse went to the back room for the shortwave. Foil for Gary continues: she organizes from within, he leads from the front. Her backstory remains unrevealed.
 
 ---
 
@@ -120,7 +120,7 @@ Still, attentive, reads every room. Carries a notebook and a portable shortwave 
 **Flaws:** The journalist's instinct to record and calibrate can conflict with the human need to just be present. More information isn't always better when people are at capacity.
 
 > **⚠️ Status**
-> In the Bronco, passenger seat. The Jesse/Lena dynamic is a functioning intelligence relay and a genuine friendship — basically bunking with the Hutchins family by Ch. 11. Delivered global picture through Jesse as relay to Gary (Ch. 9): WHO flight grounding, European borders, CDC retraction and Knox Telecom/Raleigh connection. Wrote down Jesse's July 4th recount (Ch. 10) — understood what it cost him. Notebook closed during the escape — "some things you sit with before you record them." Her record is the only comprehensive account of what happened inside the zone. More intelligence incoming as the shortwave picks up the accelerating collapse.
+> Set up the shortwave at the gas station and pulled in the collapse: degrading military frequencies (perimeter sections non-recoverable, units consolidating north), a ham operator in Shepherdsville reporting refugees flooding north on I-65 and sick people outside the zone, and a woman in Lexington aggregating reports statewide ("you are not alone, this is a civil emergency, help each other"). The world outside the zone is starting to sound like the world inside it. Confirmed the aerial strain pattern — people sick without bites. Notebook still closed since the escape. The intelligence relay with Jesse continues; she's teaching him calibration: who gets what information and when. Her record remains the only comprehensive account.
 
 ---
 
@@ -136,7 +136,7 @@ Dark blond hair in a loose braid. Patient, available in the way of someone who h
 **Flaws:** What she becomes under grief is unwritten.
 
 > **⚠️ Status**
-> In the Bronco, back seat, forehead on the glass, looking backward. Parents (Frank and Carol) did not make it out of Harlan — Frank's arm wound slowed him, Carol wouldn't leave him, Amy was alone in Sector B when Del found her. Fought Del to go back — he held her, broke his ribs in the fall, said "Your parents would want you in that truck." The energy broke, not the need. Past-tense slip about her mother in Ch. 8 has become literal. Orphaned. Folded into the Hutchins family orbit by proximity and necessity. Lily is her anchor. Jesse is her peer. Both threads are now active.
+> In shock. At the gas station: against the wall, knees up, head down, making the sound of nothing. Diane sat with her briefly — told her "you're here, we're here, tomorrow is tomorrow." Amy registered it physically (one deeper breath) but couldn't respond. Lily came to her unprompted, sat beside her, pressed play on the blank Walkman, placed one headphone pad against Amy's knee. Amy's shoulders loosened a fraction. The structure she'd built around herself held but shifted. The grief has not arrived — she's in the space between the event and the understanding of the event. The breakdown will come later, triggered by something small. The pulling-together-after is the real arc. Lily is her anchor. The Jesse thread remains primed. The Del thread is planted.
 
 ---
 
@@ -152,7 +152,7 @@ Alert stillness. Eyes that move systematically. Never wastes a position.
 **Flaws:** Trust is transactional by training. His history means the group will always be slightly uncertain about him until he's been tested repeatedly.
 
 > **⚠️ Status**
-> Driving the Suburban. Assessed four vehicles in Harlan's staging area (Ch. 9) — arrangement with Gary implicit. Dropped Gary keys and walked out during the escape. Came back through the east gate with a gray Suburban sourced from outside the wire. Gary said "thank you" — the first real exchange of respect between them. The "useful or problem" question is settled: useful. Deeply, specifically useful. Came back when he could have gone. The compact is implicit, tested once, held. The complication — the thing he does that puts the group in danger — may still be ahead, or it may have been the vehicle move and the cost was absorbed.
+> The group's security perimeter. At the gas station: circuited the building, lot, and tree line within three minutes of arrival. Positioned on the Suburban's hood watching the road — the systematic scan running on the same frequency it always runs on. Held convoy interval on the drive north — fifty yards, disciplined. The compact with Gary is tested and held. First real group integration still pending — he's settled as useful but his relationship to anyone other than Gary is undeveloped. The complication may still be ahead.
 
 ---
 
@@ -172,7 +172,7 @@ Compact, direct, dark hair pulled tight, brown eyes that move constantly. Small 
 **Flaws:** Fifteen years of institutional loyalty don't dissolve cleanly. Crossing lines costs something internal that hasn't been examined yet.
 
 > **⚠️ Status**
-> Did not make the Harlan departure with the family. Built the friendship with Diane through actions — first name basis, medication for Frank Briars, the consolidation warning (Ch. 10). Named "consolidation" before it happened. Was expected to join but the escape moved fast and she wasn't at the staging area. Planned for a solo POV thread (Ch. 13–14) showing the collapse from the military side and her departure. Will converge with the family or with Morrow's squad — separately or together is undecided.
+> Did not make the Harlan departure with the family. Built the friendship with Diane through actions — first name basis, medication for Frank Briars, the consolidation warning (Ch. 10). Named "consolidation" before it happened. Was expected to join but the escape moved fast and she wasn't at the staging area. Planned for POV thread in Ch. 13 showing the collapse from the military side. May merge with Morrow's squad before or during departure. Will converge with the family on the road. The fifteen years of institutional loyalty are dissolving in real time.
 
 ---
 
@@ -188,7 +188,7 @@ Six foot even, going leaner than he used to be. Dark hair cut close, lined aroun
 **Flaws:** Institutional loyalty runs deep. Carries loss quietly; the daughter in Georgia is a constant background frequency.
 
 > **⚠️ Status**
-> Inside Harlan at the time of the family's departure. The scratch on his forearm — received July 8th during a perimeter sweep — defined his arc for six chapters. Formally reported to Greer in Ch. 9; command already knew transmission isn't contact-dependent. Non-reportable. The gap between operational knowledge and official position is now irrelevant — the institution is collapsing. The consolidation would have dissolved his squad and reassigned his remaining people (Reyes, Cutler, Webb) under a new commander. Planned to make his own decision to leave, taking his squad, and converge with the family on the road (Ch. 12–14). Shores walked toward Elizabethtown during the consolidation — see Separated section.
+> Inside Harlan at the time of the family's departure. The consolidation would have dissolved his squad and reassigned his remaining people (Reyes, Cutler, Webb) under a new commander. Planned to make his own decision to leave, taking his squad. Convergence with the family on the road — Ch. 13–14. Shores walked toward Elizabethtown during the consolidation; Morrow understands why. His POV thread in Ch. 13 will show the military side of the collapse and the decision to break from command.
 
 ---
 
@@ -260,7 +260,7 @@ Sandy-haired, freckled, open face. Looks younger than twenty. Always doing somet
 **Traits:** Eight months enlisted. First posting. The youngest and most transparent member of the military group. Easy, uninvited sociability. Mother and younger brother inside the exclusion zone.
 
 > **⚠️ Status**
-> Gone. Was supposed to visit his mother for her birthday July 12th. That date passed. He told no one. When the consolidation order came and the military pulled back from the direction of the perimeter — the direction of Elizabethtown — Shores walked into the gap. Not dramatic desertion; he just went. Morrow understands why. Planned for potential return later in the story, changed by whatever he found or didn't find. Separate thread, revisited when the story is ready.
+> Gone. Was supposed to visit his mother for her birthday July 12th. That date passed. He told no one. When the consolidation order came and the military pulled back from the direction of the perimeter — the direction of Elizabethtown — Shores walked into the gap toward his mother's house. Not dramatic desertion; he just went. Morrow understands why. Planned for potential return later in the story, changed by whatever he found or didn't find. Separate thread, revisited when the story is ready.
 
 ---
 
@@ -312,4 +312,4 @@ Did not make it out of Harlan. Frank's arm wound slowed him. Carol wouldn't leav
 
 ---
 
-*Last updated: Post-Chapter Eleven.*
+*Last updated: Post-Chapter Twelve. Harlan Arc closed.*

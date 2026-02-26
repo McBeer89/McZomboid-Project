@@ -1,22 +1,16 @@
-# The McZomboid Project — Fiction
+# Chapter Six — *"The Weight of Him"*
+
+**July 10, 1993 — Route 9, Knox County, Knox Exclusion Zone**
 
 ---
-
-# Chapter Six: The Weight of Him
-
-*Knox County, Kentucky. July 10, 1993. Midday.*
-
----
-
-## I.
 
 The road stopped them at a place that had no name.
 
-A curve on Route 9 where the tree line pressed close on both sides and a utility pole had come down across both lanes — not recently, from the look of it, leaning at a diagonal with the wire slack and pooled in the ditch on the left side and the pole itself resting on the roof of a sedan that had been coming the other way when it fell or had been parked there or had simply been in the wrong place when the world reorganized itself around the question of what counted as important anymore.
+A curve on Route 9 where the tree line pressed close on both sides and a utility pole had come down across both lanes — not recently, from the look of it, the wood weathered and the angle settled, leaning at a diagonal with the wire slack and pooled in the ditch on the left side and the pole itself resting on the roof of a sedan that had been coming the other way when it fell or had been parked there or had simply been in the wrong place when the world reorganized itself around the question of what counted as important anymore. The sedan's windshield was cracked in a spiderweb pattern where the pole rested, the glass holding its shape the way glass holds when the break is structural but the pieces haven't decided to fall yet.
 
 Cutler stopped the truck. In the mirror, Cross stopped the second vehicle ten yards back.
 
-Nobody said anything for a moment. They looked at the pole and the wire and the sedan and the math of it.
+Nobody said anything for a moment. They looked at the pole and the wire and the sedan and the math of it — the road blocked, the ditch too deep for the trucks, the tree line too close for a detour, the whole thing a problem that had a solution if the solution could be found before something found them.
 
 "Wire's dead," Cutler said. "Has to be, lines been out since the sixth." He said it like a man confirming something he was already ninety percent certain of, which was the only kind of certainty available lately.
 
@@ -38,15 +32,15 @@ Gary was out before Greer finished the sentence.
 
 ---
 
-Outside was the full weight of a Kentucky July at noon — the heat coming from above and rising from the asphalt simultaneously, the air thick enough that breathing felt like a considered activity. The sulfur smell was stronger than it had been that morning, or Gary had stopped not noticing it at some point during the drive and was noticing it again now. He couldn't tell which.
+Outside was the full weight of a Kentucky July at noon — the heat coming from above and rising from the asphalt simultaneously, the road surface soft enough under his boots that he could feel the give of it, the tar seams sticky and dark. The air was thick enough that breathing felt like a considered activity, each inhale carrying the sulfur-copper taste that had become the baseline flavor of the world. It was stronger than it had been that morning, or Gary had stopped not noticing it at some point during the drive and was noticing it again now. He couldn't tell which. The distinction, he was beginning to understand, might not matter.
 
-He took the left side of the pole with Morrow. Cross and Reyes took the right. Greer went to the sedan and put it in neutral and began pushing from the front, the car rolling slowly in the direction of the ditch with the grinding protest of flat tires that hadn't moved in days.
+He took the left side of the pole with Morrow. Cross and Reyes took the right. Greer went to the sedan and put it in neutral and began pushing from the front, the car rolling slowly in the direction of the ditch with the grinding protest of flat tires that hadn't moved in days, the rubber leaving black streaks on the asphalt.
 
-It was the kind of work Gary had done all his life — uncomplicated, physical, requiring nothing but effort and coordination — and he found, in the focusing of it, a brief interval of clarity. His hands on the rough wood of the utility pole, the weight of it shifting, the way Morrow adjusted his grip without being told because Morrow had also done this kind of work all his life, just in different contexts.
+It was the kind of work Gary had done all his life — uncomplicated, physical, requiring nothing but effort and coordination — and he found, in the focusing of it, a brief interval of clarity. His hands on the rough wood of the utility pole, the splinters pressing into his palms, the creosote smell mixing with the sulfur and the sweat. The weight of the pole shifting as they lifted, the physics of it simple and honest — mass, angle, leverage, the body doing what the body was built to do. Morrow adjusted his grip without being told because Morrow had also done this kind of work all his life, just in different contexts, and the two of them moved the pole the way two men moved a pole when the work was the only language they needed.
 
-He was aware of the tree line the way he was always aware of the tree line now. The ditch on the left. The sedan scraping toward the shoulder, Greer pushing steadily. The truck behind them with Diane in the bed and Lily in the cab and the blue tarp and what was under the blue tarp.
+He was aware of the tree line the way he was always aware of the tree line now — the oaks standing close, the underbrush dense enough to hide what it wanted to hide, the silence in the trees that was not silence but the held breath of a county waiting to exhale. The ditch on the left, the pooled wire he stepped over carefully. The sedan scraping toward the shoulder, Greer pushing steadily, the muscles in the lieutenant's arms taut and visible in the noon light. The truck behind them with Diane in the bed and Lily in the cab and the blue tarp and what was under the blue tarp.
 
-He had told himself he would not think about what was under the blue tarp while his hands were occupied with the pole. That was the kind of decision you made to get through the next twenty minutes and it was a reasonable decision and it was not entirely working.
+He had told himself he would not think about what was under the blue tarp while his hands were occupied with the pole. That was the kind of decision you made to get through the next twenty minutes and it was a reasonable decision and it was not entirely working. The weight of the pole was real and the weight of the man in the truck bed was real and the two weights existed in the same body at the same time, his arms doing one thing and his mind refusing to do the other.
 
 The pole shifted. Greer got the sedan to the shoulder. Two more minutes of repositioning and the right lane was clear enough for a truck to thread through if the truck had a willing driver, which it did.
 
@@ -56,35 +50,33 @@ It was the most efficient word available and it was the right one.
 
 They were getting back into the vehicles when Vasquez put her head over the side of the truck bed.
 
-She looked at Greer. Just that.
+She looked at Greer. Just that. Her face level, her eyes holding his, the communication entirely in the looking — not alarm, not urgency, just the steady gaze of a woman delivering information that could not be delivered in a better way.
 
 Greer went still for one second. Then he came around to the side of the truck.
 
 ---
 
-## II.
-
 Diane had his hand.
 
-That was the first thing Gary saw when he came around — Diane on her knees in the truck bed with Hicks' hand in both of hers, not doing anything medical with it, just holding it. The medical part was over. Her face had the specific composure of someone who had composed it deliberately and was maintaining the composition by will.
+That was the first thing Gary saw when he came around — Diane on her knees in the truck bed with Hicks' hand in both of hers, not doing anything medical with it, just holding it. The medical part was over. He could see that in her posture — the way her shoulders were set, the way her thumbs moved across the back of Hicks' hand in the slow repetition of a gesture that was not assessment but attendance. Her face had the specific composure of someone who had composed it deliberately and was maintaining the composition by will, the surface steady, the cost of the steadiness visible only if you knew where to look, and Gary knew where to look.
 
-Hicks' chest was still.
+Hicks' chest was still. The tarp was folded around him and his face was turned slightly to the side and his eyes were closed and he looked, in the noon light, like a man who had finally found the position that worked.
 
-Morrow had already stopped walking. Reyes had stopped at the tailgate and was looking at the tree line, not at the truck bed. Shores had gone quiet in the way of someone swallowing something large.
+Morrow had already stopped walking. He stood at the corner of the truck bed with one hand on the metal side panel and his face doing nothing, holding nothing, the blankness not of a man who felt nothing but of a man who had put what he felt in a place where it could not interfere with the next sixty seconds. Reyes had stopped at the tailgate and was looking at the tree line, not at the truck bed — watching the perimeter because the perimeter was his job and his job was the thing he had when everything else was taken away. Shores had gone quiet in the way of someone swallowing something large and finding that it went down but did not go away.
 
-Jesse was in the cab and Gary turned back to the window and Jesse was watching through the glass. Gary shook his head once, the minimal signal that covered a large distance, and Jesse turned forward and put his arm around Lily and that was that.
+Jesse was in the cab and Gary turned back to the window and Jesse was watching through the glass. The boy's face was still, the way it had been still on the road five days ago when Gary extended his arm and the world divided into before and after. Gary shook his head once, the minimal signal that covered a large distance — *not now, stay there, I'll explain when there's something to explain* — and Jesse turned forward and put his arm around Lily and that was that.
 
-Greer stood at the tailgate. His face was doing the thing it did — working, processing, finding the framework and finding the framework insufficient and finding the framework anyway.
+Greer stood at the tailgate. His face was doing the thing it did — working, processing, finding the framework and finding the framework insufficient and finding the framework anyway because the framework was what he had and what he had was what he used.
 
 "How long," he said.
 
-"Just now," Diane said. "While you were on the pole."
+"Just now," Diane said. "While you were on the pole." Her voice was even. The professional register, the one that held the information and released it cleanly. Underneath it, Gary could hear the other voice — the one that had been holding a dying man's hand in the bed of a truck while six men pushed a utility pole off a road, the voice that would come later, in private, when the composure was no longer required.
 
 Greer looked at Morrow.
 
 "I have it," Morrow said. Just that.
 
-A long second. Greer understood what he was being told. The zero-to-one-minute window. The arithmetic. Morrow had thought through what needed to happen and was offering to be the one who did it, which was the most significant thing one person could offer another in July 1993 Knox County and both of them knew it.
+A long second. Greer understood what he was being told. The zero-to-one-minute window. The arithmetic. The thing that needed to happen before the thing that was going to happen happened. Morrow had thought through what needed to be done and was offering to be the one who did it, which was the most significant thing one person could offer another in July 1993 Knox County and both of them knew it.
 
 Greer shook his head.
 
@@ -92,17 +84,19 @@ Greer shook his head.
 
 "Sir—"
 
-"He's my soldier." Greer said it without drama, in the flat voice of a man accounting for something. "He was my soldier."
+"He's my soldier." Greer said it without drama, in the flat voice of a man accounting for something. Claiming it. "He was my soldier."
 
-Morrow held the look for a moment. Vasquez held hers. The offer had been made and refused and the refusal was its own information about the lieutenant.
+Morrow held the look for a moment. Vasquez held hers. The offer had been made and refused and the refusal was its own information about the lieutenant — not bravado, not martyrdom, but the particular insistence of a man who understood that some debts could not be delegated.
 
 "Everyone back in the vehicles," Greer said. "Give me a minute."
 
-Gary put his hand on Morrow's arm and they walked back to the F-150 together and got in without talking.
+Gary put his hand on Morrow's arm — a touch, not a grip, the kind of contact that said *come on* without saying anything — and they walked back to the F-150 together and got in without talking. Diane climbed down from the truck bed. Vasquez followed. They stood at the side of the second vehicle and Diane put her hand flat against the metal panel and held it there, her palm against the sun-hot steel, and did not look back.
 
 ---
 
 The minute was a minute. Not longer.
+
+The sound, when it came, was small and flat and final — muffled by the truck bed and the distance and the noon heat pressing down on everything. A single report. The kind of sound that in any other July would have been a car backfiring, a firework, something that made you look up and then look away. Nobody in the F-150 looked up. Jesse had Lily's head against his shoulder and his hand over her ear and he didn't know if she'd heard it or if the Walkman hiss had covered it or if she knew what it was and had decided not to say.
 
 Then Greer came around the side of the truck and got into the second vehicle and said something to Cross that Gary couldn't hear, and Cross started the engine.
 
@@ -114,21 +108,19 @@ Gary looked at the road ahead.
 
 The F-150 moved east. The second vehicle followed. The utility pole lay on the shoulder behind them in the full July sun and they did not look back at it and the road ran on.
 
-Lily said nothing. Her hand found Gary's arm and rested there and he put his hand over hers without looking away from the windshield.
+Lily said nothing. Her hand found Gary's arm and rested there — small and warm and specific, the weight of a child's hand, the weight of the world reduced to the five fingers of a seven-year-old who had decided that this arm was where she was going to be — and he put his hand over hers without looking away from the windshield.
 
 After a while Jesse said, "Is Greer okay."
 
-Gary thought about that. Through the rear window he could see the second vehicle keeping pace, Cross steady at the wheel, Greer in the passenger seat looking forward.
+Gary thought about that. Through the rear window he could see the second vehicle keeping pace, Cross steady at the wheel, Greer in the passenger seat looking forward. Looking forward the way a man looks forward when behind him is a thing he is not going to look at again.
 
 "He will be," Gary said.
 
-Jesse accepted that. He was learning to accept the answers that were available rather than the answers that were sufficient, which was one of the things the week had been teaching him, which was not a thing Gary had ever wanted to teach him.
+Jesse accepted that. He was learning to accept the answers that were available rather than the answers that were sufficient, which was one of the things the week had been teaching him, which was not a thing Gary had ever wanted to teach him and which he could not unteach now.
 
-The road ran under them. Knox County opened up slightly east of where they'd been — less tree cover, wider shoulders, the occasional field visible between the remaining structures. The density of the left things thinned a little. Not gone, not safe, just thinner, the way the end of something was sometimes gradual before it was complete.
+The road ran under them. Knox County opened up slightly east of where they'd been — less tree cover, wider shoulders, the occasional field visible between the remaining structures, the soybeans going untended and the fences leaning where someone had hit them and kept driving. The density of the left things thinned a little. Not gone, not safe, just thinner, the way the end of something was sometimes gradual before it was complete.
 
 ---
-
-## III.
 
 It was Reyes who heard it first, which surprised no one.
 
@@ -136,9 +128,9 @@ He rapped twice on the rear window of the cab and Gary turned and Reyes was poin
 
 Cutler slowed.
 
-From somewhere ahead — far enough to be a sound rather than a source, close enough to be unambiguous — came the particular acoustic signature of a military installation under operational load. Generators. Vehicle engines at idle. And under both of those, barely there but present, the high-frequency crackle of radio equipment in active use.
+From somewhere ahead — far enough to be a sound rather than a source, close enough to be unambiguous — came the particular acoustic signature of a military installation under operational load. Generators. Vehicle engines at idle. The low hum of electricity being made in a place where the grid had stopped making it. And under both of those, barely there but present, the high-frequency crackle of radio equipment in active use.
 
-Gary knew that sound. He had last heard it twenty-two years ago and it had apparently been waiting in his memory intact, because it arrived in his chest like recognition rather than information.
+Gary knew that sound. He had last heard it twenty-two years ago and it had apparently been waiting in his memory intact, because it arrived in his chest like recognition rather than information. The Reserve had put that sound in him and the years had buried it and the road had dug it up and here it was — the sound of infrastructure, of organization, of people who had a frequency and a generator and a chain of command. The sound of the thing Greer had been navigating toward for two days.
 
 "That's the perimeter," he said.
 
@@ -148,9 +140,9 @@ Cutler didn't answer. His foot came off the accelerator and they rolled in the h
 
 "Few miles," Gary said. "Maybe less."
 
-He turned to look through the rear window. Greer had his window down. He was looking east, the same direction, with the expression of a man who has been navigating by a fixed point for two days and can now see it.
+He turned to look through the rear window. Greer had his window down. He was looking east, the same direction, with the expression of a man who has been navigating by a fixed point for two days and can now see it. Or hear it. The same thing, at this distance.
 
-Whatever it cost him to get to the sound of those generators, Gary thought, was visible in his face for one moment and then was not.
+Whatever it cost him to get to the sound of those generators — the road, the truck, the utility pole, the minute that was a minute — was visible in his face for one moment and then was not.
 
 Greer looked at Gary through the glass. Gary looked back.
 
@@ -164,11 +156,11 @@ Gary turned forward.
 
 "Us," Gary said. "They see us. Which could mean different things depending on who's on the other end of the radio." He paused. "So we go slow and we go visible and we give them time to figure out we're worth letting through."
 
-Lily had the Walkman in her lap. She was not pressing play. She was just holding it, watching the road ahead from between him and Jesse, the fixed point at the center of everything the group was doing without discussing it.
+Lily had the Walkman in her lap. She was not pressing play. She was just holding it, watching the road ahead from between him and Jesse, the fixed point at the center of everything the group was doing without discussing it. Her face was calm in a way that was not the calm of a child who didn't understand what was happening but the calm of a child who had understood what was happening and had found, somewhere inside the understanding, a place to stand.
 
 "Will they let us through," she said.
 
-Gary looked down at her. The question was asked in the careful, precise way she asked things when she had already considered the possibility that the answer was no and was asking anyway.
+Gary looked down at her. The question was asked in the careful, precise way she asked things when she had already considered the possibility that the answer was no and was asking anyway because the asking was its own kind of courage.
 
 "Greer has orders that say we belong on the other side of that perimeter," Gary said. "And Greer is the kind of man who is going to make sure someone on the other end of that radio understands that."
 
@@ -176,16 +168,14 @@ She considered this. "Is that a yes."
 
 "It's the best yes available," he said.
 
-She took that. Turned back to the road. Put the Walkman carefully in the pocket of her jacket like something being put away safely, which was the most specific gesture of trust he had seen in several days and which he was going to think about later, in the place where he kept the other things.
+She took that. Turned back to the road. Put the Walkman carefully in the pocket of her jacket like something being put away safely — not put down, not forgotten, just stored, the way you store a thing you're going to need again when the time is right. It was the most specific gesture of trust he had seen in several days and it landed in the place where he kept the other things — the hand on his arm, the question asked carefully, the eyes that watched the road and did not look away.
 
 Cutler drove east.
 
-The sound of the generators grew in the hot afternoon air, steady and mechanical and the closest thing to a promise that July 10th in Knox County had to offer, and they drove toward it with Hicks no longer in the truck bed and Greer no longer in doubt and the perimeter close enough now to mean something.
+The sound of the generators grew in the hot afternoon air, steady and mechanical and the closest thing to a promise that July 10th in Knox County had to offer, and they drove toward it with the truck bed empty and Greer looking forward and the perimeter close enough now to mean something.
 
 The road ran forward.
 
 They followed it.
 
 ---
-
-*— end of chapter six —*

@@ -1,26 +1,20 @@
-# The McZomboid Project — Fiction
+# Chapter Four — *"East on the Road"*
+
+**July 10, 1993 — Deer Camp / Knox County, Knox Exclusion Zone**
 
 ---
-
-# Chapter Four: East on the Road
-
-*Knox County, Kentucky. July 10, 1993. Morning.*
-
----
-
-## I.
 
 Greer didn't speak for a long time.
 
-That was the thing Morrow remembered afterward — not what he said, but the quality of the silence before it. The gray morning sitting on the porch, the birds, the distant sound of Cross finishing his walk, and Greer at the railing with his hands flat against the wood and his eyes on the logging road and something happening in him that was slow and structural, like a building deciding how to stand differently.
+That was the thing Morrow remembered afterward — not what he said, but the quality of the silence before it. The gray morning sitting on the porch, the birds, the distant sound of Cross finishing his walk, and Greer at the railing with his hands flat against the wood and his eyes on the logging road and something happening in him that was slow and structural, like a building deciding how to stand differently after someone had removed a wall it thought it needed.
 
-Morrow had told it straight. The scratch. What he'd watched in the days before the truck went into the ditch. The four people he'd seen turn, one of them bitten and three of them not. The theory he'd been carrying since July 8th like a stone in his boot — not knowing what to do with it, not willing to set it down until he had someone worth giving it to.
+Morrow had told it straight. The scratch. What he'd watched in the days before the truck went into the ditch. The four people he'd seen turn, one of them bitten and three of them not. The theory he'd been carrying since July 8th like a stone in his boot — not knowing what to do with it, not willing to set it down until he had someone worth giving it to. And then the part that changed the shape of everything: Diane's account from Cortman, the flu patients who died and came back without a bite, without contact, without anything except the air they'd been breathing and the water they'd been drinking for weeks.
 
 Greer took it all in without interruption.
 
-When Morrow finished, the silence ran another half minute.
+When Morrow finished, the silence ran another half minute. The birds filled it. The heat was beginning to press, the cool false promise of dawn already burning off, and the logging road stretched out ahead of them the same way it had an hour ago except that the road was different now because the man looking at it knew something he hadn't known before.
 
-"You watched four people turn," Greer said. Flat. Cataloguing.
+"You watched four people turn," Greer said. Flat. Cataloguing. The voice of a man building a structure around a piece of information before he let himself feel the weight of it.
 
 "Yes, sir."
 
@@ -32,7 +26,9 @@ When Morrow finished, the silence ran another half minute.
 
 "Saw the same pattern at Cortman Medical. Multiple patients. Flu deaths. No contact history." He paused. "She's certain of what she saw, sir. She's that kind of woman."
 
-Another silence. Greer's jaw worked once and was still. "And you've been sitting on this since yesterday morning."
+Another silence. Greer's jaw worked once and was still. Morrow watched him take the next step — the step from *what happened* to *what it means* — and saw the moment it landed. Not a flinch. Not a collapse. A recalculation. The lieutenant's eyes moved from the road to the trees to the sky to the road again, and Morrow understood that Greer was looking at the air. At the morning. At the invisible thing that the theory said was already inside every one of them.
+
+"And you've been sitting on this since yesterday morning."
 
 "I had a theory. Not a fact."
 
@@ -50,9 +46,9 @@ Greer turned from the railing. He looked at Morrow's left arm — at the sleeve,
 
 "She's careful," Morrow said. "Which is different. She won't tell me I'm fine. She'll tell me what she knows and what she doesn't."
 
-Greer looked at the arm another moment and then looked away, back at the road, back at the gray morning light that was starting to take on its first edge of heat. The decision visible in his posture — not the decision itself, but the shape of the man making it.
+Greer looked at the arm another moment and then looked away, back at the road, back at the gray morning light that was starting to take on its first edge of heat. The decision visible in his posture — not the decision itself, but the shape of the man making it. The way the shoulders settled. The way the hands came off the railing and went to his sides. The shift from receiving information to carrying it.
 
-"You should have told me," he said. Not angry. Something more considered than anger.
+"You should have told me," he said. Not angry. Something more considered than anger — the particular tone of a man who understood why something had happened and was choosing to address the principle rather than the person.
 
 "Yes, sir."
 
@@ -70,9 +66,9 @@ Greer was quiet another moment. Then something in his shoulders settled — not 
 
 "Then the zone is everyone who was breathing Knox County air in June," Morrow said. "Which is everyone inside the perimeter and possibly some people outside it."
 
-The full shape of that sat between them.
+The full shape of that sat between them. The morning seemed to thicken around it — the air heavier, the sulfur-copper smell sharper, the familiar made unfamiliar by the knowledge that the familiar was part of the problem. Every breath they'd taken since June. Every glass of water from the tap that tasted like pennies. The entire county, not a quarantine zone but a saturation zone, the perimeter not a wall against something getting out but a line drawn around something that was already everywhere inside it.
 
-"We don't know that," Greer said.
+"We don't know that," Greer said. The words careful. The words of a man holding a door shut against something he could feel pressing on the other side.
 
 "No, sir."
 
@@ -82,7 +78,7 @@ The full shape of that sat between them.
 
 "That's not enough to—" He stopped himself. Restarted. "We hold that information carefully. We use it to make better decisions about what we do next. We don't—" He looked for the word. "We don't let it become the only thing people are thinking about, because if it does, people stop functioning."
 
-Morrow studied him. The lieutenant was doing what Morrow had watched him do in the brief the night before — finding the version of the truth that fit inside a frame that could still hold the group together. Not lying. Not denying. Choosing what to build on.
+Morrow studied him. The lieutenant was doing what Morrow had watched him do in the brief the night before — finding the version of the truth that fit inside a frame that could still hold the group together. Not lying. Not denying. Choosing what to build on. Selecting the load-bearing pieces and setting aside the rest until the structure could take the additional weight.
 
 It was, Morrow thought, either very good leadership or the thing that came just before very good leadership broke.
 
@@ -92,13 +88,11 @@ It was, Morrow thought, either very good leadership or the thing that came just 
 
 ---
 
-## II.
-
 Cutler had been a mechanic long enough to know that an engine you heard two days ago in a county that was coming apart was either long gone or waiting for you with a story attached, and the stories attached to waiting vehicles in Knox County right now were not the kind with good endings.
 
 He knew this and went anyway because there was nothing else to do and because Greer had given him Webb and a direction and in the absence of better options a direction was something.
 
-They moved east on the logging road in the early morning, the heat already building in the canopy overhead, the air still carrying the smell that had been in everything since June — the sulfur and copper that Cutler had stopped consciously noticing until he thought about it, at which point he noticed it constantly. Webb walked behind him and slightly to the right the way he always positioned himself, half a step behind whoever was nearest, like a moon that had found its orbit.
+They moved east on the logging road in the early morning, the heat already building in the canopy overhead, the air still carrying the smell that had been in everything since June — the sulfur and copper that Cutler had stopped consciously noticing until he thought about it, at which point it was all he could taste, coating the back of his throat like a film that wouldn't clear. Webb walked behind him and slightly to the right the way he always positioned himself, half a step behind whoever was nearest, like a moon that had found its orbit.
 
 "You been on a lot of roads like this," Webb said, after a while.
 
@@ -108,15 +102,15 @@ They moved east on the logging road in the early morning, the heat already build
 
 Cutler considered the question. "No."
 
-Webb seemed to find this honest rather than discouraging, and they walked in silence through the sweetgum and hickory with the heat pressing down.
+Webb seemed to find this honest rather than discouraging, and they walked in silence through the sweetgum and hickory with the heat pressing down and the road curving ahead of them into the trees.
 
-He heard the vehicle before he saw it. Not running — still, the engine cold — but audible in the way metal in the sunlight was audible, the particular tick of a truck that had been sitting in a clearing since the temperature last changed. Cutler knew that sound the way he knew all the sounds of things mechanical and not moving that wanted to be moving.
+He heard the vehicle before he saw it. Not running — still, the engine cold — but audible in the way metal in the sunlight was audible, the particular tick of a truck that had been sitting in a clearing since the temperature last changed. The expansion and contraction of steel and glass warming unevenly in the morning light. Cutler knew that sound the way he knew all the sounds of things mechanical and not moving that wanted to be moving.
 
-The clearing was maybe fifty yards off the road, down a rutted two-track that had been carved by decades of deer hunting and occasional ATVs. The truck was a 1988 Ford F-150, blue, half in the shade and half in the morning light, driver's door standing open in the way of a door opened fast and left that way.
+The clearing was maybe fifty yards off the road, down a rutted two-track that had been carved by decades of deer hunting and occasional ATVs. The truck was a 1988 Ford F-150, blue, half in the shade and half in the morning light, driver's door standing open in the way of a door opened fast and left that way. The dome light was off — battery dead from being open all night, maybe two nights, maybe more.
 
 Cutler held up a hand. They stopped.
 
-He looked at the truck for a long moment. At the door. At the grass around it, pressed down in patterns that took him a few seconds to read correctly, and then he read them and was still for a moment longer.
+He looked at the truck for a long moment. At the door. At the grass around it, pressed down in patterns that took him a few seconds to read correctly — the drag marks, the scuff of something heavier than a person walking, the place where the pattern changed direction and widened and the grass was darker than the grass around it — and then he read them and was still for a moment longer.
 
 He looked at Webb. "Stay here."
 
@@ -128,21 +122,23 @@ Webb stayed.
 
 Cutler crossed the clearing slowly, watching where he put his feet, keeping to the edge of what had happened here and not the middle of it. The truck was intact — all four tires, glass unbroken, the bed empty except for a blue tarp folded against the side wall. He came around the driver's door and looked inside.
 
-Keys in the ignition. Half a tank showing on the gauge. A child's sneaker on the passenger seat, small enough to be a six or seven year old's, white with a velcro strap. One sneaker. He noted it the way he noted all things mechanical and environmental, as information that was part of the picture.
+Keys in the ignition. Half a tank showing on the gauge. A child's sneaker on the passenger seat, small enough to be a six or seven year old's, white with a velcro strap. One sneaker. He looked at it for a moment — the velcro worn soft, the sole scuffed in the particular pattern of a kid who dragged their feet, the laces tucked inside because the child hadn't learned to tie them or didn't bother. A shoe that had been on a foot that had been in this truck and then wasn't anymore, and the story between those two facts was in the grass outside and at the tree line and nowhere Cutler was going to follow it.
 
-He looked at the grass again. At what was pressed down and what was darker than it should be and what ended at the tree line thirty feet away without going any farther.
+He noted it the way he noted all things mechanical and environmental, as information that was part of the picture. Then he reached across the seat and put the sneaker in the glove box and closed it, because some information didn't need to be part of anyone else's picture.
+
+He looked at the grass again. At what was pressed down and what was darker than it should have been — the color not quite brown, not quite red, the color of something organic that had soaked into the dirt and dried in the heat — and what ended at the tree line thirty feet away without going any farther.
 
 Whatever had happened in this clearing had ended at the tree line.
 
-He climbed in. Put his hand on the dashboard, which was warm from the morning sun. Put it on the steering wheel and held it there for a moment, the way he always did before he started something, the ritual of contact. Then he turned the key.
+He climbed in. Put his hand on the dashboard, which was warm from the morning sun. Put it on the steering wheel and held it there for a moment, the way he always did before he started something — the ritual of contact, the mechanic's handshake with a machine, reading through his palms the vibration and temperature and history of a vehicle he'd never sat in before. Then he turned the key.
 
 The engine caught on the second try.
 
-He let it run a minute, listening to it with the focused attention of a man who understood engines at a frequency other people couldn't access. A miss on the third cylinder that would need looking at, something loose in the exhaust that would be loud without being serious, the idle a little rough from sitting but evening out as it warmed. A working truck. An ugly-running, imperfect, profoundly necessary working truck.
+He let it run a minute, listening to it with the focused attention of a man who understood engines at a frequency other people couldn't access. A miss on the third cylinder that would need looking at — intermittent, electrical, probably the plug wire rather than the plug itself. Something loose in the exhaust that would be loud without being serious. The idle a little rough from sitting but evening out as it warmed, the RPMs steadying as the fuel system remembered what it was supposed to do. A working truck. An ugly-running, imperfect, profoundly necessary working truck.
 
-He put it in reverse, backed it toward the two-track, and drove it to where Webb was standing at the edge of the road.
+He put it in reverse, backed it toward the two-track, and drove it to where Webb was standing at the edge of the road with his rifle held too tight and his eyes on the clearing behind them.
 
-Webb looked at the open driver's door, now closed. At the truck. At Cutler's face.
+Webb looked at the truck. At Cutler's face.
 
 "What's back there," Webb said.
 
@@ -150,35 +146,35 @@ Webb looked at the open driver's door, now closed. At the truck. At Cutler's fac
 
 ---
 
-## III.
-
 Hicks was worse.
 
-Diane had known when she woke, before she checked him, from the quality of his breathing across the room — the labor in it, the particular sound of lungs working harder than they should in the morning cool. She had checked him anyway because checking was what you did when you were a nurse, because the ritual of the check was what separated assessment from dread, and she had confirmed what she already knew.
+Diane had known when she woke, before she checked him, from the quality of his breathing across the room — the labor in it, the particular wet heaviness of lungs that were filling with what the fever was producing, the sound she'd listened for in a hundred overnight shifts and had learned to hear through walls and curtains and the white noise of a hospital at three a.m. She checked him anyway because checking was what you did when you were a nurse, because the ritual of the check was what separated assessment from dread, and she confirmed what she already knew.
 
-Gary was awake. He looked at her face when she stood and read what he needed to from it, and they did the wordless thing, and then he stood and went outside and gave her the room.
+The fever had spiked in the night. His skin was gray-pale in the morning light and damp with the particular sheen that meant the body was burning through its reserves — not sweating to cool itself but leaking, the temperature regulation failing, the thermostat broken. She checked his pulse. Fast. Thready. The kind of pulse that made her fingers want to press harder, as if pressing harder would find a stronger beat underneath.
+
+Gary was awake. He looked at her face when she stood and read what he needed to from it, the way he'd been reading her face across rooms and doorways and kitchen counters for sixteen years — not the words but the weather behind them, the pressure system, the forecast. He stood and went outside and gave her the room.
 
 She sat beside Hicks on the floor.
 
-He was conscious, which was something. His eyes tracked her when she came close, the focus effortful but present.
+He was conscious, which was something. His eyes tracked her when she came close, the focus effortful but present, the eyes of a man who was using more energy to see than he had to spare.
 
-"Still here," he said. His voice had roughened overnight.
+"Still here," he said. His voice had roughened overnight, the edges of the words soft with fluid.
 
 "Still here," she agreed. "How's the pain."
 
 "Chest. Some." He moved his hand vaguely. "Like breathing with a wet blanket on me."
 
-She knew that description. She had heard it from several people in the last days of Cortman Medical, in the hours before they stopped describing things. She did not say this.
+She knew that description. She had heard it from several people in the last days of Cortman Medical, in the hours before they stopped describing things. She did not say this. She kept her face in the register she'd built for moments like this — present, steady, the face that said *I'm listening* and *I'm here* and didn't say *I've heard this before and I know where it goes.*
 
 "I'm going to make you drink something," she said. "I need you to keep it down."
 
-He managed half a canteen, slow, with rest in between. She watched him do it with the careful clinical attention she had built over eleven years of watching people do difficult things, and she kept the rest of her face and the rest of her thoughts separate from the watching.
+He managed half a canteen, slow, with rest in between. She watched him do it with the careful clinical attention she had built over eleven years of watching people do difficult things — the angle of his head, the effort in his throat, the way his hand shook around the canteen and then steadied and then shook again.
 
 Jesse appeared at her shoulder. She hadn't heard him cross the room.
 
 "Can I—" He gestured at the canteen.
 
-"Yes." She stood and let him take her place and watched her sixteen-year-old son hold the canteen steady for a sick soldier he had known for twelve hours, and the complicated thing that moved through her she also kept separate, filed it somewhere that could be opened later when there was time.
+"Yes." She stood and let him take her place and watched her sixteen-year-old son hold the canteen steady for a sick soldier he had known for twelve hours. Jesse's hand on the back of Hicks' neck, guiding the water. The gentleness of it — practiced, unselfconscious, the gentleness of a boy who had grown up watching his mother do this and had absorbed it without being taught. She turned away before her face could do what it wanted to do, because what it wanted to do was not useful right now and the people in this room needed her face to be useful.
 
 She went to the door.
 
@@ -192,11 +188,11 @@ Greer was on the porch with Gary and Morrow, the three of them in the particular
 
 "And if he doesn't."
 
-She looked at Greer. At the lieutenant who was working as hard as any person she'd watched try to keep something together — patient, structured, not yet brittle. A good man in a situation that was going to keep asking him to be better than good.
+She looked at Greer. At the lieutenant who was working as hard as any person she'd watched try to keep something together — patient, structured, not yet brittle. A good man in a situation that was going to keep asking him to be better than good, and then keep asking after that.
 
 "Then we have a different conversation," she said. "But I'd like to not have it."
 
-Greer held her eyes. Something passing in his face that she filed alongside all the other things she'd filed this week — the data of people under pressure, the register of a human being at the edge of their training trying to find the next inch of solid ground.
+Greer held her eyes. Something passing in his face that she filed alongside all the other things she'd filed this week — the data of people under pressure, the register of a human being at the edge of their training reaching for the next inch of solid ground and not yet sure it was there.
 
 "So would I," he said.
 
@@ -216,9 +212,9 @@ Greer looked at the truck for a moment. At the open bed, the blue tarp. At the k
 
 "Where'd you find it," Gary said.
 
-"Clearing off a two-track," Cutler said. "About a mile east." He said it without looking at Webb and without adding anything to it, in the voice of a man who had decided that the shape of the information was all the situation required.
+"Clearing off a two-track," Cutler said. "About a mile east." He said it without looking at Webb and without adding anything to it, in the voice of a man who had decided that the shape of the information was all the situation required. The rest of it — the grass, the door, the sneaker he'd put in the glove box — was going to stay where he'd put it.
 
-Gary looked at him. At the things Cutler wasn't saying. He looked at Webb, who was looking at the truck bed like a man who was somewhere else briefly.
+Gary looked at him. At the things Cutler wasn't saying. He looked at Webb, who was looking at the truck bed like a man whose eyes were in one place and the rest of him was in another.
 
 "Right," Gary said. Just that.
 
@@ -237,5 +233,3 @@ It was, Morrow thought, not the whole truth. But it was enough truth to move on,
 He went inside to wake the room.
 
 ---
-
-*— end of chapter four —*

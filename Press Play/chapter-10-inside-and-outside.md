@@ -1,6 +1,6 @@
-# Chapter Ten — "Inside and Outside"
+# Chapter Ten — *"Inside and Outside"*
 
-*Checkpoint Harlan, Lincoln County, Kentucky. July 12, 1993.*
+**July 12, 1993 — Checkpoint Harlan, Lincoln County, Knox Exclusion Zone**
 
 ---
 
@@ -8,17 +8,17 @@ The generator on the east side had changed pitch overnight.
 
 Gary noticed it the way he noticed everything now — not as information but as arithmetic. The steady diesel thrum that had been part of the background since arrival had developed a hitch, a half-second skip in the cycle that repeated every forty seconds or so. Nobody else in the ration line seemed to hear it. They were tired, mostly. The line was longer this morning and the portions at the front of it were smaller. Yesterday had been two items and a cup of water. Today was one item and a cup of water and the woman handing it out wouldn't meet anyone's eyes.
 
-He took his ration — a can of Vienna sausages, the label half-peeled — and moved out of the line. The sun was already bad at seven-thirty. The air smelled the way it always smelled now, sulfur and copper and the particular staleness of a place where too many people were living in too little space with not enough moving air. He'd stopped noticing the smell days ago, which bothered him more than the smell itself.
+He took his ration — a can of Vienna sausages, the label half-peeled — and moved out of the line. The sun was already bad at seven-thirty, the light flat and white and pressing down on the canvas of the tents and the bare dirt of the paths and the faces of the people in the line behind him. The air smelled the way it always smelled now, sulfur and copper and the particular staleness of a place where too many people were living in too little space with not enough moving air. He'd stopped noticing the smell days ago, which bothered him more than the smell itself, because the not-noticing was the body adjusting to something the body should not be adjusting to.
 
-Diane was already up and gone. Medical station, same as every morning. She left before the ration line opened because the walk gave her ten minutes alone, which was the only kind of privacy available inside the wire. He understood that. Jesse was somewhere — probably already with the Park woman, or on his way to her. Lily was still asleep on her cot, or pretending to be, which was its own kind of sentence about the week she'd had.
+Diane was already up and gone. Medical station, same as every morning. She left before the ration line opened because the walk gave her ten minutes alone, which was the only kind of privacy available inside the wire. He understood that. He needed it too and had not yet found his version of it. Jesse was somewhere — probably already with the Park woman, or on his way to her. Lily was still asleep on her cot, or pretending to be, which was its own kind of sentence about the week she'd had.
 
-Gary walked the perimeter of Sector C the way he did every morning. Not the wire itself — civilians didn't get near the wire — but the interior fence line that separated the civilian block from the staging area and the armory. He counted things. It was what he did. The guard post at the east gate had two soldiers yesterday. Today it had one, and the one was sitting on an ammunition crate with his rifle across his knees and his head down. The supply truck that had been parked behind the armory since July 8th was gone. Not moved — gone, the tire tracks still pressed into the mud where it had been.
+Gary walked the perimeter of Sector C the way he did every morning. Not the wire itself — civilians didn't get near the wire — but the interior fence line that separated the civilian block from the staging area and the armory. He counted things. It was what he did. The guard post at the east gate had two soldiers yesterday. Today it had one, and the one was sitting on an ammunition crate with his rifle across his knees and his head down. The supply truck that had been parked behind the armory since July 8th was gone. Not moved — gone, the tire tracks still pressed into the mud where it had been, the mud already drying in the heat, the absence more visible than the truck had been.
 
 Ruth was at the water station, clipboard in hand, talking to a man Gary didn't know. She saw him, nodded once, and went back to what she was doing. Her clipboard was thinner than it had been three days ago. He'd noticed that too. She'd started with a sheaf of intake forms and supply lists thick enough to bend the board. Now it was maybe fifteen pages. He didn't know if that meant she'd filed them somewhere or if there was less to track.
 
 The generator skipped again. Forty seconds. Same hitch.
 
-He ate the Vienna sausages standing up, one at a time, not because he was savoring them but because eating slowly was a discipline he'd imposed on himself since day two. You eat fast, your body thinks there's more coming. He drank the water in three swallows and crushed the cup and put it in the trash drum that was already overflowing. Nobody had emptied it.
+He ate the Vienna sausages standing up, one at a time, not because he was savoring them but because eating slowly was a discipline he'd imposed on himself since day two. You eat fast, your body thinks there's more coming. He drank the water in three swallows and crushed the cup and put it in the trash drum that was already overflowing. Nobody had emptied it. That was a data point — small, but part of the accumulation. The maintenance rhythms that had been functioning two days ago were beginning to skip, the same way the generator was skipping, the same hitch in the same cycle.
 
 A jeep came through the interior road between the armory and the command block. Gary stepped back to let it pass and saw Greer in the passenger seat. Their eyes met for maybe a second — recognition, not greeting. Greer was talking to the driver, one hand on the dash, already looking at something ahead. The jeep turned left toward the south gate. Gary watched it go.
 
@@ -30,17 +30,17 @@ He walked back to Sector C. The generator skipped.
 
 Diane had the medical station to herself for the first twenty minutes, which was the part she needed.
 
-The station was a repurposed storage tent with folding tables and plastic bins and a smell of antiseptic that couldn't quite cover the smell of everything else. She'd organized the supply shelf on her second day — bandages on the left, sorted by size; medications in the middle, alphabetical by generic name; instruments on the right, what few there were. The organization was for function. It was also for the thirty seconds it gave her every morning when she could stand at that shelf and be a nurse and nothing else.
+The station was a repurposed storage tent with folding tables and plastic bins and a smell of antiseptic that couldn't quite cover the smell of everything else — the canvas, the bodies, the particular sweetness of infections that were being treated and the different sweetness of infections that weren't. She'd organized the supply shelf on her second day — bandages on the left, sorted by size; medications in the middle, alphabetical by generic name; instruments on the right, what few there were. The organization was for function. It was also for the thirty seconds it gave her every morning when she could stand at that shelf and be a nurse and nothing else.
 
 She stood there now. Counted the gauze pads. Counted the bottles. Noted what was lower than yesterday and what was gone entirely. The amoxicillin was down to eleven capsules. Frank Briars needed at least seven more days on the course to clear the infection in his arm, and she was rationing three a day instead of four because three was what they had. The math didn't work. She'd known that since Tuesday but she did the math again anyway because doing it was the discipline and the discipline was the wall between this and Cortman.
 
 She closed her eyes. Opened them. Went to work.
 
-The first patient was a child with a blister that had gone septic — dirty water, bare feet, the obvious combination. She cleaned it, dressed it, told the mother to keep him off the ground, and knew the mother couldn't. The second was an older man with chest pain that was probably anxiety and might not be. She checked his pulse, asked the questions she'd been trained to ask, and told him to come back if it got worse, knowing that if it got worse there was nothing here that could help him.
+The first patient was a child with a blister that had gone septic — dirty water, bare feet, the obvious combination that the camp kept producing because you couldn't keep children off the ground and you couldn't keep the ground clean and the gap between those two facts was where the infections lived. She cleaned it, dressed it, told the mother to keep him off the ground, and knew the mother couldn't. The second was an older man with chest pain that was probably anxiety and might not be. She checked his pulse, asked the questions she'd been trained to ask, and told him to come back if it got worse, knowing that if it got worse there was nothing here that could help him. The knowledge sat in her the way all the impossible knowledge sat — present, accounted for, set aside.
 
 She was rebandaging Frank Briars' arm when Vasquez came in.
 
-Diane heard the footsteps first — deliberate, economical, the particular cadence of someone who moved through space without announcing it. She looked up. Vasquez was carrying a small ziplock bag, unlabeled, and she set it on the table next to Diane's elbow without ceremony.
+Diane heard the footsteps first — deliberate, economical, the particular cadence she had learned to recognize the way she recognized a patient's breathing pattern, by frequency and weight. She looked up. Vasquez was carrying a small ziplock bag, unlabeled, and she set it on the table next to Diane's elbow without ceremony.
 
 "Cephalexin," Vasquez said. "Fourteen capsules. Should cover the course."
 
@@ -50,7 +50,7 @@ Diane opened the bag. Looked at the capsules. Looked at Vasquez. "Where did you 
 
 The intake sheet was pinned to the supply shelf. It listed every patient, every condition, every medication dispensed. Anyone who walked in could read it. Vasquez had walked in, read it, identified what was needed, sourced it, and brought it across the line between the military side and the civilian side without being asked and without making it a production.
 
-Diane understood what that cost. Not the antibiotics — the decision. An NCO walking materiel from the armory block to the civilian medical station was a line. Small, but a line.
+Diane understood what that cost. Not the antibiotics — the decision. An NCO walking materiel from the armory block to the civilian medical station was a line. Small, but a line. And the smallness of the line was not the point — the point was that Vasquez had looked at it and crossed it and the crossing was a statement about which side of the line her loyalty was settling on.
 
 "Thank you," Diane said. She said it the way she said it — level, specific, received.
 
@@ -70,7 +70,7 @@ When he was gone, Vasquez said: "What are you hearing over here?"
 
 Diane set down the roll of gauze. "Most of them think we're waiting for something. Rescue, resupply, orders from somewhere. Ruth doesn't think that but she's managing people who do."
 
-"That's about right." Vasquez paused. She had the look of someone choosing words, not from caution but from precision. "There's talk on our side. Not official — nobody's putting anything in writing. But the NCOs are hearing things from the officers, and the officers are hearing things from command, and what's coming down the chain isn't *protection*."
+"That's about right." Vasquez paused. She had the look of someone choosing words, not from caution but from precision — the same precision she brought to everything, the words selected the way a surgeon selected instruments, for the specific cut they needed to make. "There's talk on our side. Not official — nobody's putting anything in writing. But the NCOs are hearing things from the officers, and the officers are hearing things from command, and what's coming down the chain isn't *protection*."
 
 "What word are they using?"
 
@@ -84,7 +84,7 @@ Diane looked at her. "And the civilian block isn't essential."
 
 "I don't know yet. Nobody's said it out loud in a briefing I've been in. But the word is there, and the people using it aren't using it the way I'd use it." Vasquez met her eyes. "I'm not on board with what I think it means. I wanted you to know that."
 
-Diane held the look. Two women. First-name basis. The weight in the room was the weight of a decision that Vasquez had made before she walked through the tent flap — the decision to say this to this person, in this place, because the institution she'd served for fifteen years was beginning to discuss something she couldn't stand behind.
+Diane held the look. Two women. First-name basis. The weight in the room was the weight of a decision that Vasquez had made before she walked through the tent flap — the decision to say this to this person, in this place, because the institution she'd served for fifteen years was beginning to discuss something she couldn't stand behind and the alternative to standing behind it was standing beside someone she trusted.
 
 "I'll tell Gary," Diane said.
 
@@ -104,7 +104,7 @@ Vasquez nodded and left.
 
 Lena was sitting on the concrete slab behind the water treatment shed, which was where she always sat when she wanted to talk without being in anyone's sightline. She had the notebook open on her knee and the pencil behind her ear and the portable shortwave tucked into the cargo pocket of her jacket even though reception inside the wire was garbage. Jesse had learned her habits the way he learned everything now — by watching, by cataloguing, by building the map of how a person worked so he could understand what they were building.
 
-She was building a record. He understood that. Everything she collected — the shortwave intercepts, the conversations with civilians, the scraps of official information that leaked through the chain — she was assembling into something that would outlast the situation. She was a reporter. This was what reporters did. But it was more than that. She believed that someone, somewhere, would eventually need to know what had happened here and how, and she was making sure the account existed.
+She was building a record. He understood that. Everything she collected — the shortwave intercepts, the conversations with civilians, the scraps of official information that leaked through the chain — she was assembling into something that would outlast the situation. She was a reporter. This was what reporters did. But it was more than that. She believed that someone, somewhere, would eventually need to know what had happened here and how, and she was making sure the account existed even if she didn't.
 
 He sat down next to her. She didn't look up from the notebook.
 
@@ -114,7 +114,7 @@ He sat down next to her. She didn't look up from the notebook.
 
 "July 4th. You were in Muldraugh when it started. You walked home." She looked at him now. "Eight miles. I want to know what you saw."
 
-He'd known this was coming. Not the specific moment, but the shape of it — that eventually someone would ask, and that the someone would be her, and that when she asked he would have to decide whether the thing he'd been carrying for seven days was something he could put down or something that would only get heavier if he tried.
+He'd known this was coming. Not the specific moment, but the shape of it — that eventually someone would ask, and that the someone would be her, and that when she asked he would have to decide whether the thing he'd been carrying for eight days was something he could put down or something that would only get heavier if he tried.
 
 "Yeah," he said. "Okay."
 
@@ -122,13 +122,13 @@ He didn't know where to start. That was the first problem. The day had a before 
 
 "I was at the arcade," he said. "Muldraugh. There's one on the main strip, past the Fossil station. I was there because Tommy Harris said he'd be there and Tommy had *Street Fighter II* money, so. That's why I was in Muldraugh."
 
-Lena wrote. She didn't prompt him.
+Lena wrote. She didn't prompt him. The pencil moved and her eyes stayed on the notebook and the not-prompting was its own kind of invitation, the silence that said *go at your own pace and I'll be here when you get where you're going.*
 
 "The arcade closed early. The guy who runs it — I don't know his name, heavy guy, mustache — he said he was feeling sick and he was closing up. It was maybe four o'clock. Tommy had already left. I didn't have a ride because my mom was working and my dad was — I don't know where my dad was. So I was going to walk to the Cortman ER and wait for my mom's shift to end at seven."
 
 He stopped. The next part was where the smear started.
 
-"The ER was wrong when I got there. I knew it was wrong before I went in. There were too many cars in the lot and some of them were parked on the grass, like people had just stopped wherever. The doors were propped open. You could hear — it was loud. Not screaming exactly. More like a lot of people talking at once and none of them at the right volume."
+"The ER was wrong when I got there. I knew it was wrong before I went in. There were too many cars in the lot and some of them were parked on the grass, like people had just stopped wherever. The doors were propped open with a fire extinguisher, which is something they never do. You could hear — it was loud. Not screaming exactly. More like a lot of people talking at once and none of them at the right volume."
 
 He was quiet for a moment. Lena waited.
 
@@ -144,13 +144,13 @@ He looked at his hands. They were steady, which surprised him.
 
 "Were they—"
 
-"I didn't stay to find out what they were. A big guy near the door grabbed me by the shoulder and shoved me outside and said *go*, just that word, and I went. I was outside. The parking lot. It was — it was still daytime. That's the thing I keep. It was broad daylight and the sky was blue and the fireworks stands were still set up across the street and it was July 4th."
+"I didn't stay to find out what they were. A big guy near the door grabbed me by the shoulder and shoved me outside and said *go*, just that word, and I went. I was outside. The parking lot. It was — it was still daytime. That's the thing I keep coming back to. It was broad daylight and the sky was blue and the fireworks stands were still set up across the street and it was July 4th and people were supposed to be grilling and setting off bottle rockets and it was supposed to be a Tuesday."
 
 Lena wrote.
 
 "I tried to find my mom's car. She drives a blue Buick Century. I couldn't find it. I found out later she'd already left — someone crashed into the ambulance bay and they evacuated staff through the back — but I didn't know that then. I just knew she wasn't there and the building behind me was making sounds I couldn't — I couldn't categorize. I didn't have a word for what was happening in there."
 
-He took a breath. The telling was doing something he hadn't expected. It was flattening the memory, pressing it from three dimensions into two. The thing that had been inside his chest for seven days was becoming words on a page in someone else's handwriting. He didn't know yet if that made it lighter or just differently shaped.
+He took a breath. The telling was doing something he hadn't expected. It was flattening the memory, pressing it from three dimensions into two. The thing that had been inside his chest for eight days was becoming words on a page in someone else's handwriting, and the words were smaller than the thing, and the smallness was a relief and a loss at the same time. He didn't know yet if that made it lighter or just differently shaped.
 
 "So I walked. It's eight miles from Cortman to our house. I've done it before — my dad made me walk it once when I was twelve because I missed curfew and he said if I was old enough to stay out late I was old enough to find my own way home. So I knew the route. Highway 31W north, then cut east on the back roads past the lumber yard."
 
@@ -164,7 +164,7 @@ The fracture was here. He could feel it — the place where the linear memory br
 
 He stopped again. Longer this time.
 
-"Her arm was at the wrong angle. Not broken-wrong. Detached-wrong. It was still connected but just barely, like something had pulled it and the skin was the only thing holding on. And she was trying to get up. She was on her back and she was trying to roll over and her legs were working but the arm was — dragging. And she didn't seem to know. She didn't seem to know about the arm."
+"Her arm was at the wrong angle. Not broken-wrong. Detached-wrong. It was still connected but just barely, like something had pulled it and the skin was the only thing holding on. And she was trying to get up. She was on her back and she was trying to roll over and her legs were working but the arm was — dragging. In the dirt. And she didn't seem to know. She didn't seem to know about the arm."
 
 Lena's pencil had stopped.
 
@@ -174,7 +174,7 @@ Lena's pencil had stopped.
 
 "I know. I know that now. I didn't know it then. I just ran because my body ran."
 
-The sun was directly overhead. The water treatment shed hummed behind them. Somewhere in the compound a hammer was striking metal, steady and even, someone repairing something.
+The sun was directly overhead. The water treatment shed hummed behind them. Somewhere in the compound a hammer was striking metal, steady and even, someone repairing something — the sound of maintenance, of things being fixed, the ordinary rhythm of a place that was still trying to function.
 
 "It got dark while I was walking. Somewhere around the lumber yard. I could still hear the fireworks — not from Muldraugh, from somewhere else, maybe Brandenburg — and sirens. Lots of sirens. The sky was. You know the sky. The purple in it."
 
@@ -188,7 +188,7 @@ The sun was directly overhead. The water treatment shed hummed behind them. Some
 
 He was quiet for ten seconds. Fifteen.
 
-"One of them came out of the trees. I don't know where — past the Hendersons' mailbox, I think, because I remember the mailbox. It came out of the treeline on my left and it was just — there. In the road. Between me and home. It was a man. I think it was a man. He was wearing a t-shirt and jeans and one shoe. The other foot was bare and the toes were dragging wrong, like the foot was broken. He was maybe twenty feet away."
+"One of them came out of the trees. I don't know where — past the Hendersons' mailbox, I think, because I remember the mailbox. It came out of the treeline on my left and it was just — there. In the road. Between me and home. It was a man. I think it was a man. He was wearing a t-shirt and jeans and one shoe. The other foot was bare and the toes were dragging wrong, like the foot was broken but the foot didn't know it was broken. He was maybe twenty feet away."
 
 "What did you do?"
 
@@ -200,7 +200,7 @@ Jesse pressed his palms flat against the concrete.
 
 "You got past him."
 
-"He got close. Closer than twenty feet. Closer than ten. I was backed up against — I don't know, a fence post or a tree, something behind me. And then he reached and I — his hand got my shirt. Here." Jesse touched his left shoulder. "He grabbed the fabric. The grip was — strong isn't the right word. It was like a machine. Not squeezing, just closed. I twisted. The shirt tore a little. I got loose and I went into the woods."
+"He got close. Closer than twenty feet. Closer than ten. I was backed up against — I don't know, a fence post or a tree, something behind me. And then he reached and I — his hand got my shirt. Here." Jesse touched his left shoulder. "He grabbed the fabric. The grip was — strong isn't the right word. It was like a machine. Not squeezing, just closed. Like a latch. I twisted. The shirt tore a little. I got loose and I went into the woods."
 
 "Did he follow?"
 
@@ -210,7 +210,7 @@ Jesse pressed his palms flat against the concrete.
 
 "The light made everything look like it was already dead. The trees, the ground, my own hands. Everything purple and cold-looking. I ran through it for — I don't know. It felt like an hour. It was probably fifteen minutes. The woods let out behind the Carvers' old property, which is a quarter mile from our house. I came out of the treeline and I could see our porch light."
 
-He stopped talking. The silence had a different quality now — emptied, not full.
+He stopped talking. The silence had a different quality now — emptied, not full. The thing that had been held was on the page now and the chest was lighter and the page was heavier and the transfer was complete.
 
 "My dad was on the porch with the shotgun. He didn't know I was coming. He'd been trying to call Cortman to reach my mom and the phones were dead and he was just — standing there. With the gun. Waiting for whatever was going to come out of the dark."
 
@@ -222,7 +222,7 @@ Jesse looked at the notebook. At the words in someone else's hand that were his 
 
 "That's what I saw," he said.
 
-Lena closed the notebook. She held the pencil in both hands, rolling it between her palms.
+Lena closed the notebook. She held the pencil in both hands, rolling it between her palms — the small, nervous gesture of a woman who was not nervous but whose hands needed to do something while the rest of her processed what she'd just been given.
 
 "Thank you," she said. Not lightly. The weight of a journalist who understood what a primary source account cost the source.
 
@@ -242,7 +242,7 @@ Gary was sitting on an overturned crate with Diane beside him. Jesse was on the 
 
 "I would rather eat my own boot."
 
-They ate. The compound was quieter in the evenings — the generator noise and the distant sound of vehicles and the low murmur of a hundred and thirty people trying to live in a space designed for sixty. The sky to the west was orange going red, the sunset filtered through the haze that never fully cleared.
+They ate. The compound was quieter in the evenings — the generator noise and the distant sound of vehicles and the low murmur of three hundred people trying to live in a space designed for sixty. The sky to the west was orange going red, the sunset filtered through the haze that never fully cleared, the color wrong in the way the color had been wrong for weeks — too saturated, too deep, the orange bleeding into a purple at the edges that didn't belong to any sunset Gary had ever seen in forty-six years of Kentucky evenings.
 
 "Del," Diane said. "What was it like on the outside?"
 
@@ -252,13 +252,13 @@ She asked it the way she asked everything — directly, without softening it. De
 
 "The kids are in it," Gary said. "They should know what *it* is."
 
-Del chewed the last of his fruit cocktail. Wiped his mouth with the back of his hand. Set the can down carefully on the ground beside his boot.
+Del chewed the last of his fruit cocktail. Wiped his mouth with the back of his hand. Set the can down carefully on the ground beside his boot — the precise, deliberate gesture of a man clearing the deck before he started.
 
 "I was outside the zone for six hours," he said. "July 5th into the 6th. I drove down from Louisville to check on my mother — she lives in Vine Grove, twenty minutes inside where they drew the line. I didn't know there was a line yet. I got to the blockade at Route 31 and they turned me around."
 
 "What did the blockade look like?" Gary asked.
 
-"Two Humvees across the road. Concertina wire. Six soldiers, maybe eight. One of them was shaking. Not from the cold — it was ninety degrees. He was standing at the checkpoint with his rifle up and his hands were going and he looked like he'd been awake for three days. The one who talked to me was calmer but his voice had that sound — you know the sound. When someone has said the same words so many times they've stopped being words."
+"Two Humvees across the road. Concertina wire. Six soldiers, maybe eight. One of them was shaking. Not from the cold — it was ninety degrees. He was standing at the checkpoint with his rifle up and his hands were going and he looked like he'd been awake for three days. The one who talked to me was calmer but his voice had that sound — you know the sound. When someone has said the same words so many times they've stopped being words and started being a wall they're building between themselves and the question."
 
 "They told you to turn around."
 
@@ -272,29 +272,29 @@ Del paused. Picked up the empty can. Put it down again.
 
 "Warning shot. Over his head. But the next time — maybe an hour later — a soldier tried to go the other direction. Young kid, younger than Jesse. He was inside the zone and he walked up to the checkpoint from the wrong side and he said he was going home. They didn't fire a warning shot. They fired at him."
 
-The silence after that was the kind that has weight.
+The silence after that was the kind that has weight — physical, pressing, the silence of five people sitting with the same image and the same understanding of what it meant.
 
 "Did they hit him?" Jesse asked.
 
 "I don't know. He went down. I couldn't tell from where I was whether he was hit or whether he dropped because they fired. Two soldiers went out and brought him back inside. I didn't see him get up."
 
-Gary was doing the arithmetic. Del could see it — the same look he always had when the numbers were coming in, the patient assessment of a man who didn't waste energy on shock because shock was a luxury.
+Gary was doing the arithmetic. Del could see it — the same look he always had when the numbers were coming in, the patient assessment of a man who didn't waste energy on shock because shock was a luxury and Gary Hutchins did not traffic in luxuries.
 
 "What about Louisville?" Gary asked.
 
-"Louisville is where I need to tell you something I haven't told you yet." Del leaned forward, elbows on his knees. "I drove back to Louisville that night. The 6th. When I couldn't get through. By the time I got back to the city — maybe midnight — the hospitals were already full. Not Knox full. Not what you're describing from Cortman. But full. Flu cases. The same flu. High fevers, sweating, anxiety, people fainting in the waiting rooms."
+"Louisville is where I need to tell you something I haven't told you yet." Del leaned forward, elbows on his knees, his hands clasped between them — the posture of a man who had been holding something and was about to set it down in the middle of the room. "I drove back to Louisville that night. The 6th. When I couldn't get through. By the time I got back to the city — maybe midnight — the hospitals were already full. Not Knox full. Not what you're describing from Cortman. But full. Flu cases. The same flu. High fevers, sweating, anxiety, people fainting in the waiting rooms."
 
-Diane's face changed. Not dramatically — a shift around the eyes, the particular recognition of a medical professional hearing a clinical pattern described by a layperson and understanding exactly what it means.
+Diane's face changed. Not dramatically — a shift around the eyes, the particular recognition of a medical professional hearing a clinical pattern described by a layperson and understanding exactly what it means and exactly where it goes.
 
 "The same symptoms," she said.
 
-"The same everything. The smell was there too — faint, not like in here, but there. Sulfur. And the water — my neighbor said the water tasted like pennies. Same thing people were saying in here weeks ago." Del rubbed his face with both hands. "I drove past the refugee camp they set up on the fairgrounds. Military tents, Red Cross vehicles, people from the zone who'd been displaced when they drew the perimeter. They were packed in. Hundreds of them. Coughing. And the soldiers guarding the camp — some of them were coughing too."
+"The same everything. The smell was there too — faint, not like in here, but there. Sulfur. And the water — my neighbor said the water tasted like pennies. Same thing people were saying in here weeks ago." Del rubbed his face with both hands, the gesture of a man scrubbing away the memory of what he'd seen and knowing the scrubbing didn't work. "I drove past the refugee camp they set up on the fairgrounds. Military tents, Red Cross vehicles, people from the zone who'd been displaced when they drew the perimeter. They were packed in. Hundreds of them. Coughing. And the soldiers guarding the camp — some of them were coughing too."
 
-"It's not contained," Gary said. He didn't say it as revelation. He said it as confirmation.
+"It's not contained," Gary said. He didn't say it as revelation. He said it as confirmation — the final number in a calculation he'd been running since Del first talked about the roadblock, the answer arriving not with the shock of the new but with the weight of the certain.
 
 "It was never contained. The perimeter isn't keeping it in. It's keeping *us* in. Whatever this is — the water, the air, the dust, whatever the hell is making people sick — it's already in Louisville. It was in Louisville before they drew the line. The line isn't medicine. The line is politics."
 
-Gary looked at Diane. She looked back. The exchange lasted two seconds and contained a conversation that would have taken twenty minutes if they'd had the luxury of speaking it. They didn't.
+Gary looked at Diane. She looked back. The exchange lasted two seconds and contained a conversation that would have taken twenty minutes if they'd had the luxury of speaking it. They didn't. The two seconds held: the Cortman trajectory, the airborne theory, the perimeter as containment theater, the refugees coughing in Louisville, the soldiers coughing at the camp, the arithmetic that kept coming out the same way. Two seconds. A marriage of nineteen years compressing the unsayable into a look.
 
 "The camps," Diane said. "The refugee camps. Are they still there?"
 
