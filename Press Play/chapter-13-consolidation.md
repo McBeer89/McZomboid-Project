@@ -104,7 +104,7 @@ Shores' bunk was stripped. The blanket folded on the bare mattress, the footlock
 
 The tags didn't say: twenty years old. Mother in Elizabethtown, twenty minutes outside the zone. Younger brother. Birthday July 12th that he'd told no one about and that had passed two days ago without acknowledgment. First posting. Eight months in.
 
-Morrow had known since last night. He'd woken at 0400 for the latrine and the bunk was empty and the knowing had been instant — not surprise, not anger, the recognition of a thing that had been inevitable since the consolidation pulled the military back from the southern perimeter, from the direction of Elizabethtown, from the direction of everything Kenny Shores had left behind when the Army told him Knox County was a temporary assignment.
+Morrow had known since last night. He'd woken at 0400 for the latrine and the bunk was empty and the knowing had been instant — not surprise, not anger, the recognition of a thing that had been inevitable since the consolidation pulled the military back from the southern perimeter, from the direction of Elizabethtown, from the direction of everything Kenny Shores had left behind when the Army told him Knox Country was a temporary assignment.
 
 He hadn't reported it. The absence would be noted eventually, logged as AWOL or desertion depending on who did the paperwork. Morrow would not be the one who noted it. Some absences were a dereliction. This one was a son.
 

@@ -1,6 +1,6 @@
 # Chapter One — *"Long Sleeves"*
 
-**July 9, 1993 — Knox County, Kentucky, Knox Exclusion Zone**
+**July 9, 1993 — Knox Country, Kentucky, Knox Exclusion Zone**
 
 ---
 

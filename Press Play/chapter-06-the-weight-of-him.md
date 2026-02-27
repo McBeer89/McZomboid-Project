@@ -1,6 +1,6 @@
 # Chapter Six — *"The Weight of Him"*
 
-**July 10, 1993 — Route 9, Knox County, Knox Exclusion Zone**
+**July 10, 1993 — Route 9, Knox Country, Knox Exclusion Zone**
 
 ---
 
@@ -76,7 +76,7 @@ Greer looked at Morrow.
 
 "I have it," Morrow said. Just that.
 
-A long second. Greer understood what he was being told. The zero-to-one-minute window. The arithmetic. The thing that needed to happen before the thing that was going to happen happened. Morrow had thought through what needed to be done and was offering to be the one who did it, which was the most significant thing one person could offer another in July 1993 Knox County and both of them knew it.
+A long second. Greer understood what he was being told. The zero-to-one-minute window. The arithmetic. The thing that needed to happen before the thing that was going to happen happened. Morrow had thought through what needed to be done and was offering to be the one who did it, which was the most significant thing one person could offer another in July 1993 Knox Country and both of them knew it.
 
 Greer shook his head.
 
@@ -118,7 +118,7 @@ Gary thought about that. Through the rear window he could see the second vehicle
 
 Jesse accepted that. He was learning to accept the answers that were available rather than the answers that were sufficient, which was one of the things the week had been teaching him, which was not a thing Gary had ever wanted to teach him and which he could not unteach now.
 
-The road ran under them. Knox County opened up slightly east of where they'd been — less tree cover, wider shoulders, the occasional field visible between the remaining structures, the soybeans going untended and the fences leaning where someone had hit them and kept driving. The density of the left things thinned a little. Not gone, not safe, just thinner, the way the end of something was sometimes gradual before it was complete.
+The road ran under them. Knox Country opened up slightly east of where they'd been — less tree cover, wider shoulders, the occasional field visible between the remaining structures, the soybeans going untended and the fences leaning where someone had hit them and kept driving. The density of the left things thinned a little. Not gone, not safe, just thinner, the way the end of something was sometimes gradual before it was complete.
 
 ---
 
@@ -172,7 +172,7 @@ She took that. Turned back to the road. Put the Walkman carefully in the pocket 
 
 Cutler drove east.
 
-The sound of the generators grew in the hot afternoon air, steady and mechanical and the closest thing to a promise that July 10th in Knox County had to offer, and they drove toward it with the truck bed empty and Greer looking forward and the perimeter close enough now to mean something.
+The sound of the generators grew in the hot afternoon air, steady and mechanical and the closest thing to a promise that July 10th in Knox Country had to offer, and they drove toward it with the truck bed empty and Greer looking forward and the perimeter close enough now to mean something.
 
 The road ran forward.
 

@@ -154,7 +154,7 @@ She talked for another forty minutes. Jesse listened in the way he had learned t
 
 And the CDC's retraction — the one-hour reversal, the praise following the attack — meant someone inside the federal response knew something they weren't ready to say publicly, and the shape of that something could be read from the gap between what Galbraithe had said and how fast they'd walked it back.
 
-Jesse did not have words for all of this yet. He had the shape of it. The shape was larger than Knox County. The shape was larger than Kentucky. The shape was the thing that the curriculum had been building toward without telling him it was building toward it — the understanding that the world outside the wire was not waiting to rescue the world inside it, because the world outside the wire was becoming the world inside it.
+Jesse did not have words for all of this yet. He had the shape of it. The shape was larger than Knox Country. The shape was larger than Kentucky. The shape was the thing that the curriculum had been building toward without telling him it was building toward it — the understanding that the world outside the wire was not waiting to rescue the world inside it, because the world outside the wire was becoming the world inside it.
 
 "I need to tell my dad," he said.
 
@@ -250,7 +250,7 @@ Jesse waited. He had learned to wait. The waiting was part of the curriculum —
 
 "Yeah."
 
-"That's the one that matters most right now." Gary set down the jerry can. "The rest of it is bad and it's going to get worse. But the CDC walking back an attack on a man they fired for knowing too much — that's someone inside the government admitting they've been lying about how long they've known." He looked at Jesse. "Which means everything they've said about the scope of this being limited to Knox County—"
+"That's the one that matters most right now." Gary set down the jerry can. "The rest of it is bad and it's going to get worse. But the CDC walking back an attack on a man they fired for knowing too much — that's someone inside the government admitting they've been lying about how long they've known." He looked at Jesse. "Which means everything they've said about the scope of this being limited to Knox Country—"
 
 "Was already wrong when they said it," Jesse said.
 

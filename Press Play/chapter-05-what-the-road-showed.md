@@ -1,10 +1,10 @@
 # Chapter Five — *"What the Road Showed"*
 
-**July 10, 1993 — Knox County, Knox Exclusion Zone**
+**July 10, 1993 — Knox Country, Knox Exclusion Zone**
 
 ---
 
-Jesse watched Knox County through the passenger window and tried to find the language for what he was seeing.
+Jesse watched Knox Country through the passenger window and tried to find the language for what he was seeing.
 
 He was in the cab with Gary and Cutler, Lily wedged between him and the door with the Walkman in her lap, the tape running on whichever side had something left on it — a faint mechanical hiss leaking from the headphone she had pressed against her ear, the other ear open to the truck. Outside, the logging road had given way to a county route and the county route had given way to the kind of two-lane state road that ran between towns in Kentucky and connected them without particularly caring about either. The kind of road Jesse had driven with his father a hundred times, the kind where you knew the landmarks — the grain elevator at the Pruitt farm, the hand-painted sign for Darlene's Pies, the small white church with the marquee that usually said something about Jesus and right now said COME IN WE ARE OPEN in letters that had been up since before anyone stopped coming.
 
