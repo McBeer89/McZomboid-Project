@@ -1,6 +1,6 @@
 # Chapter Eleven — *"The Sound the World Makes"*
 
-**July 14, 1993 — Checkpoint Harlan, Lincoln County, Knox Exclusion Zone**
+**July 14, 1993 — Checkpoint Harlan, LaRue County, Knox Exclusion Zone**
 
 ---
 
@@ -218,7 +218,7 @@ Marcus pulled alongside the Bronco. Rolled down the window. His face was exactly
 
 "Thought you could use options," he said.
 
-Gary looked at the Suburban. Looked at the Bronco. Looked at the ten people who needed to be in two vehicles instead of one, and the arithmetic that had been impossible thirty seconds ago becoming possible in the space of a sentence.
+Gary looked at the Suburban. Looked at the Bronco. Looked at the nine people who needed to be in two vehicles instead of one, and the arithmetic that had been impossible thirty seconds ago becoming possible in the space of a sentence.
 
 "Change of plan," Gary said. "Diane — Suburban with Del. He needs you. Ruth, go with them. Marcus is driving." He looked at Jesse, at Lily pressed against Jesse's chest, at Amy standing blank and hollowed by the tailgate. "Everyone else, with me."
 
@@ -244,7 +244,7 @@ Marcus nodded once and rolled the window up.
 
 The compound road was empty. The military had consolidated south and west — toward the sound, toward the perimeter, toward the fight they were losing. North was unguarded because north, from command's perspective, led further into the zone. Nobody was trying to go further into the zone.
 
-Nobody except ten people in two trucks who understood that the zone was everywhere now and direction was just a choice about which kind of danger you preferred.
+Nobody except nine people in two trucks who understood that the zone was everywhere now and direction was just a choice about which kind of danger you preferred.
 
 The north gate was open. Unmanned. The wire pulled back on both sides like a wound that had been held closed and had finally given up the effort.
 

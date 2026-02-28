@@ -1,6 +1,6 @@
 # Chapter Ten — *"Inside and Outside"*
 
-**July 12, 1993 — Checkpoint Harlan, Lincoln County, Knox Exclusion Zone**
+**July 12, 1993 — Checkpoint Harlan, LaRue County, Knox Exclusion Zone**
 
 ---
 
@@ -298,7 +298,7 @@ Gary looked at Diane. She looked back. The exchange lasted two seconds and conta
 
 "The camps," Diane said. "The refugee camps. Are they still there?"
 
-"I don't know. That was six days ago. Based on what the Park girl has been hearing on the shortwave — the border closures, the riots, the curfews — I'd guess the camps are either overrun or abandoned by now. Louisville isn't a destination anymore. Louisville is the next Knox County, just bigger and slower."
+"I don't know. That was six days ago. Based on what the Park girl has been hearing on the shortwave — the border closures, the riots, the curfews — I'd guess the camps are either overrun or abandoned by now. Louisville isn't a destination anymore. Louisville is the next Knox Country, just bigger and slower."
 
 Jesse heard all of it. Layered it onto what Lena had already given him — the WHO grounding flights, the European borders closing, the stock markets, the CDC retraction. The picture was complete now, or as complete as it was going to get from inside the wire. The zone was not a quarantine. It was a preview. Everything inside the wire was coming to the world outside it, and the world outside it was not ready and was not going to be ready and no amount of concertina wire and shaking soldiers was going to change the mathematics.
 

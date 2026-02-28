@@ -28,7 +28,7 @@ He walked normal.
 
 ---
 
-The sergeant met them in the road. Late thirties, Gary guessed, with the particular blankness of face that meant he'd already used up whatever expression he'd started the week with. His uniform was dark with sweat across the shoulders and under the arms and it hung on him the way clothes hung on a man who had been wearing them for days. Long sleeves. Gary noticed the long sleeves. Ninety-two degrees and the man had his left sleeve rolled down tight to the wrist and buttoned.
+The sergeant met them in the road. Early thirties, Gary guessed, with the particular blankness of face that meant he'd already used up whatever expression he'd started the week with. His uniform was dark with sweat across the shoulders and under the arms and it hung on him the way clothes hung on a man who had been wearing them for days. Long sleeves. Gary noticed the long sleeves. Ninety-two degrees and the man had his left sleeve rolled down tight to the wrist and buttoned.
 
 "Folks." Not a question, not a greeting. An acknowledgment.
 

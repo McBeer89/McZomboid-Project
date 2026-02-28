@@ -22,7 +22,7 @@ Big man gone thick through the middle. Broad shoulders, rough hands, short grayi
 **Flaws:** Carries weight silently until it bends him. Struggles with loss of control — needs to be the decision-maker, and environments where he has no standing cost him. Can become rigid when the arithmetic says one thing and the human cost says another.
 
 > **⚠️ Status**
-> Stopped the group at a gas station on a county road north/east of Harlan, night of July 14. Killed his first infected — Dale, the gas station owner, with a tire iron. Two swings. The first wrong, the second final. Dragged the body into the bathroom and closed the door before bringing the group inside. Jesse saw him come out with the iron and understood; neither spoke about it. This is a threshold moment — the knowing became doing, and the cost is in his hands. Admitted "I don't know" to Diane about destination — the first time since July 4th. Named east as the direction: rural, small towns, the most time before the worst catches up. Not a destination — a logic. Leading again, the tab longer than ever. Vasquez and Morrow still unaccounted for. The group of ten is his responsibility.
+> Stopped the group at a gas station on a county road north/east of Harlan, night of July 14. Killed his first infected — Dale, the gas station owner, with a tire iron. Two swings. The first wrong, the second final. Dragged the body into the bathroom and closed the door before bringing the group inside. Jesse saw him come out with the iron and understood; neither spoke about it. This is a threshold moment — the knowing became doing, and the cost is in his hands. Admitted "I don't know" to Diane about destination — the first time since July 4th. Named east as the direction: rural, small towns, the most time before the worst catches up. Not a destination — a logic. Leading again, the tab longer than ever. Vasquez and Morrow still unaccounted for. The group of nine is his responsibility.
 
 ---
 
@@ -260,7 +260,7 @@ Sandy-haired, freckled, open face. Looks younger than twenty. Always doing somet
 **Traits:** Eight months enlisted. First posting. The youngest and most transparent member of the military group. Easy, uninvited sociability. Mother and younger brother inside the exclusion zone.
 
 > **⚠️ Status**
-> Gone. Was supposed to visit his mother for her birthday July 12th. That date passed. He told no one. When the consolidation order came and the military pulled back from the direction of the perimeter — the direction of Elizabethtown — Shores walked into the gap toward his mother's house. Not dramatic desertion; he just went. Morrow understands why. Planned for potential return later in the story, changed by whatever he found or didn't find. Separate thread, revisited when the story is ready.
+> Gone. Was supposed to visit his mother for her birthday July 12th. That date passed. He told no one. When the consolidation order came and the military stripped the western guard posts to reinforce the south, Shores walked into the gap — west, toward Elizabethtown and his mother's house. Not dramatic desertion; he just went. Morrow understands why. Planned for potential return later in the story, changed by whatever he found or didn't find. Separate thread, revisited when the story is ready.
 
 ---
 
@@ -306,7 +306,7 @@ Had a girlfriend named Janet in Memphis who does not know.
 ---
 
 ### Frank & Carol Briars
-**Ages:** Late 40s | Farmers, rural stretch between West Point and the zone's eastern edge
+**Ages:** Frank early 60s, Carol late 40s | Farmers, rural stretch between West Point and the zone's eastern edge
 
 Did not make it out of Harlan. Frank's arm wound slowed him. Carol wouldn't leave him. They are not confirmed dead on page — they fell behind, the gap widened, and the sound in the gap was enough.
 

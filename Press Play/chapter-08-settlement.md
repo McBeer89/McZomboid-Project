@@ -1,6 +1,6 @@
 # Chapter Eight — *"Settlement"*
 
-**July 11, 1993 — Checkpoint Harlan, Lincoln County, Knox Exclusion Zone**
+**July 11, 1993 — Checkpoint Harlan, LaRue County, Knox Exclusion Zone**
 
 ---
 

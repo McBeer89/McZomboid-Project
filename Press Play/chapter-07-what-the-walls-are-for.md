@@ -1,6 +1,6 @@
 # Chapter Seven — *"What the Walls Are For"*
 
-**July 10, 1993 — Checkpoint Harlan, Lincoln County, Knox Exclusion Zone**
+**July 10, 1993 — Checkpoint Harlan, LaRue County, Knox Exclusion Zone**
 
 ---
 
@@ -24,7 +24,7 @@ Outside the inner fence, on what had been a drill field, was everything else.
 
 Tents. More than Gary had expected. A lot more. The kind of field tenting that went up fast and got organized later — some of it organized now, rows visible, pathways worn into the grass between them, some of it still in the fast-and-get-to-it stage, canvas sagging where the stakes hadn't been set properly. People moving between them — dozens visible, more suggested by the sounds that carried across the field in the hot air. Generators at the far end running what looked like a medical canopy, the white canvas bright against the green of the field. The sound of children somewhere that he couldn't locate — laughter, or something close enough to laughter that his chest did the thing again, the not-quite-relief. An argument near the tent line that was too far away to follow, the shape of it audible and the content not.
 
-He had not let himself think about how many people had made it out of Knox County before the perimeter tightened on the 6th. Looking at the tent field now, he revised the estimate upward and kept the revision to himself. These were the people who had run early enough, or run in the right direction, or been lucky in the specific way that luck worked now — not the luck of good fortune but the luck of geography, of having a road that went east when east was the direction that still led somewhere.
+He had not let himself think about how many people had made it out of Knox Country before the perimeter tightened on the 6th. Looking at the tent field now, he revised the estimate upward and kept the revision to himself. These were the people who had run early enough, or run in the right direction, or been lucky in the specific way that luck worked now — not the luck of good fortune but the luck of geography, of having a road that went east when east was the direction that still led somewhere.
 
 "Dad," Jesse said.
 
@@ -226,6 +226,6 @@ He did not know what to call what he was building. He knew he was building it.
 
 He went back inside.
 
-The generator held its note in the dark. The flag moved in the small night wind. Knox County was out there past the wire, doing what Knox County had been doing since July 9th, patient and without hurry, waiting for the walls to show what they were for.
+The generator held its note in the dark. The flag moved in the small night wind. Knox Country was out there past the wire, doing what Knox Country had been doing since July 9th, patient and without hurry, waiting for the walls to show what they were for.
 
 ---
