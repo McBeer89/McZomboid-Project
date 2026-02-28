@@ -8,7 +8,7 @@
 
 # Part One: Deep History
 
-*What was known — or suspected — before Knox County.*
+*What was known — or suspected — before Knox Country.*
 
 ---
 
@@ -52,7 +52,7 @@ Conspiracy theorists later connected it to the pattern.
 
 A "biotech lab leak" in Raleigh was blamed for a localized outbreak of "aggressive psychosis." The official story was a gas leak combined with mass hysteria. Papers were scrubbed. Witnesses were silenced.
 
-Symptoms matched what would later appear in Knox County:
+Symptoms matched what would later appear in Knox Country:
 
 | Symptom | Raleigh 1990 |
 |---|---|
@@ -98,7 +98,7 @@ The FAA issued a standard advisory for high-altitude interference.
 
 # Part Two: The Pre-Game Timeline
 
-*Knox County, Kentucky. The weeks and days before society collapsed.*
+*Knox Country, Kentucky. The weeks and days before society collapsed.*
 
 ---
 
@@ -110,13 +110,13 @@ The FAA issued a standard advisory for high-altitude interference.
 
 **Livestock Deaths:** Farmers on the outskirts found cattle dead in the fields — not from predators, but from a sickness that made them thrash and wail before the end. Dogs began acting aggressive and feverish. Unmarked military trucks were seen speeding toward the restricted facility near Rosewood. Rumors spread that soldiers were shooting sick dogs on sight.
 
-**The Water:** Tap water across the county took on a metallic taste. On July 2nd, Mayor West would hold a press conference declaring the supply safe — a "byproduct of extreme heat and higher sulfur concentrations." The Muldraugh Sun reported a **300% increase** in patients at Cortman Medical citing high fevers, confusion, and nausea.
+**The Water:** Tap water across the region took on a metallic taste. On July 2nd, Mayor West would hold a press conference declaring the supply safe — a "byproduct of extreme heat and higher sulfur concentrations." The Muldraugh Sun reported a **300% increase** in patients at Cortman Medical citing high fevers, confusion, and nausea.
 
 ---
 
 ## 📵 July 1, 1993 (Thursday) — "The Silence"
 
-At approximately 6:00 AM, all telephone landlines within the designated Knox County area ceased functioning. Knox Telecommunications released a statement citing "critical unscheduled maintenance" caused by the extreme summer heat melting older infrastructure. No calls could go in or out of the affected towns. An uneasy quiet settled over the county.
+At approximately 6:00 AM, all telephone landlines within the designated Knox Country area ceased functioning. Knox Telecommunications released a statement citing "critical unscheduled maintenance" caused by the extreme summer heat melting older infrastructure. No calls could go in or out of the affected towns. An uneasy quiet settled over Knox Country.
 
 ---
 
@@ -146,9 +146,9 @@ The **Perseid-B meteor shower** peaked overhead, its purple-green trails visible
 
 ## July 5, 1993 (Monday)
 
-No significant official events. Inside the county, the situation continued to deteriorate.
+No significant official events. Inside Knox Country, the situation continued to deteriorate.
 
-Usenet posts from users near the zone described the purple atmospheric ionization, the unbearable sulfur-copper smell, and people collapsing without warning. User StarGazer_93, posting from a motel outside West Point, connected the spectral signature to the Varginha event and warned: *"If you're in Knox County, get out. If you can't get out, hide."*
+Usenet posts from users near the zone described the purple atmospheric ionization, the unbearable sulfur-copper smell, and people collapsing without warning. User StarGazer_93, posting from a motel outside West Point, connected the spectral signature to the Varginha event and warned: *"If you're in Knox Country, get out. If you can't get out, hide."*
 
 ---
 
@@ -224,7 +224,7 @@ Outside the zone, the world watches and waits, believing the Army has the situat
 
 # Part Three: After the Collapse
 
-*From this point forward, events escalate beyond Knox County. The world catches up.*
+*From this point forward, events escalate beyond Knox Country. The world catches up.*
 
 ---
 

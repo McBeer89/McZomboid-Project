@@ -1,6 +1,6 @@
 # Chapter Three — *"The First Night"*
 
-**July 9–10, 1993 — Deer Camp, Knox County, Knox Exclusion Zone**
+**July 9–10, 1993 — Deer Camp, Knox Country, Knox Exclusion Zone**
 
 ---
 
@@ -30,7 +30,7 @@ They looked at each other in the dark.
 
 ---
 
-They sat on the porch steps with the door pulled almost shut behind them, close enough to hear the room and far enough to talk. The night was hot and still and thick — the air sitting on the skin like damp cloth, the sulfur smell stronger now than it had been during the day, as if the heat had been cooking it out of the ground and the night was releasing it. The tree line was a deeper black against a sky that held no stars — overcast, or haze, or something else, the purple-gray ceiling that had been hanging over Knox County for days now, filtering the light in ways that made the familiar wrong.
+They sat on the porch steps with the door pulled almost shut behind them, close enough to hear the room and far enough to talk. The night was hot and still and thick — the air sitting on the skin like damp cloth, the sulfur smell stronger now than it had been during the day, as if the heat had been cooking it out of the ground and the night was releasing it. The tree line was a deeper black against a sky that held no stars — overcast, or haze, or something else, the purple-gray ceiling that had been hanging over Knox Country for days now, filtering the light in ways that made the familiar wrong.
 
 "Tell me what you know," Vasquez said. No preamble. Diane had already decided she liked this woman.
 

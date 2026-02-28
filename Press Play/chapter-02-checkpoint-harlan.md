@@ -1,6 +1,6 @@
 # Chapter Two — *"Checkpoint Harlan"*
 
-**July 9, 1993 — Knox County, Kentucky, Knox Exclusion Zone**
+**July 9, 1993 — Knox Country, Kentucky, Knox Exclusion Zone**
 
 ---
 
@@ -72,7 +72,7 @@ The lieutenant's eyes went to Diane in a way that wasn't impolite but wasn't cas
 
 "I've spent a lot of weekends there."
 
-Greer looked at the sky. The red had gone to gray and the gray was going. Gary watched him do the math — the same math Gary had been doing for an hour, the same math everyone who had been outside in Knox County after dark now did automatically, the light-and-distance calculation that had replaced checking your watch as the way you measured time.
+Greer looked at the sky. The red had gone to gray and the gray was going. Gary watched him do the math — the same math Gary had been doing for an hour, the same math everyone who had been outside in Knox Country after dark now did automatically, the light-and-distance calculation that had replaced checking your watch as the way you measured time.
 
 "All right," Greer said. He said it the way Gary was beginning to understand commands got said out here — not like decisions, but like the last domino in a row that was already falling. He turned back to Morrow. "We move together. Your people fall in with mine. We'll reassess at the shelter."
 
@@ -150,7 +150,7 @@ Greer laid it out with his hands flat on the table and his voice level and his e
 
 The exclusion zone was sealed and would remain sealed. The order was not going to change. There was no extraction plan for civilians inside the zone — Gary heard Diane's breathing shift beside him when Greer said that, a half-beat pause that meant she had heard it and absorbed it and was now processing what it meant for the two children sleeping fifteen feet away. What there was, as of July 6th, was a directive to consolidate military personnel and civilian assets at **Checkpoint Harlan** — a National Guard armory forty miles east of the zone boundary, on a highway interchange in LaRue County. It had stores. It had communications. It had walls that were worth something.
 
-Getting there meant moving through Knox County, through whatever July 9th Knox County had become, and then through whatever was on the other side of the perimeter. Which meant either finding a gap or creating one.
+Getting there meant moving through Knox Country, through whatever July 9th Knox County had become, and then through whatever was on the other side of the perimeter. Which meant either finding a gap or creating one.
 
 Greer said this without bravado. He said it like a man listing the contents of a bag he was going to have to carry whether he wanted to or not.
 

@@ -1,6 +1,6 @@
 # Chapter Four — *"East on the Road"*
 
-**July 10, 1993 — Deer Camp / Knox County, Knox Exclusion Zone**
+**July 10, 1993 — Deer Camp / Knox Country, Knox Exclusion Zone**
 
 ---
 
@@ -64,7 +64,7 @@ Greer was quiet another moment. Then something in his shoulders settled — not 
 
 "The theory about transmission," he said. "If it's right—"
 
-"Then the zone is everyone who was breathing Knox County air in June," Morrow said. "Which is everyone inside the perimeter and possibly some people outside it."
+"Then the zone is everyone who was breathing Knox Country air in June," Morrow said. "Which is everyone inside the perimeter and possibly some people outside it."
 
 The full shape of that sat between them. The morning seemed to thicken around it — the air heavier, the sulfur-copper smell sharper, the familiar made unfamiliar by the knowledge that the familiar was part of the problem. Every breath they'd taken since June. Every glass of water from the tap that tasted like pennies. The entire county, not a quarantine zone but a saturation zone, the perimeter not a wall against something getting out but a line drawn around something that was already everywhere inside it.
 
@@ -88,7 +88,7 @@ It was, Morrow thought, either very good leadership or the thing that came just 
 
 ---
 
-Cutler had been a mechanic long enough to know that an engine you heard two days ago in a county that was coming apart was either long gone or waiting for you with a story attached, and the stories attached to waiting vehicles in Knox County right now were not the kind with good endings.
+Cutler had been a mechanic long enough to know that an engine you heard two days ago in a county that was coming apart was either long gone or waiting for you with a story attached, and the stories attached to waiting vehicles in Knox Country right now were not the kind with good endings.
 
 He knew this and went anyway because there was nothing else to do and because Greer had given him Webb and a direction and in the absence of better options a direction was something.
 
