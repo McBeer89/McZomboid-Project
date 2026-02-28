@@ -46,7 +46,7 @@ Then Greer came around the hood of the second vehicle in his uniform and the cal
 
 "Sir." A different kind of attention. Shoulders adjusting.
 
-"Specialist." Greer came up to the gate with his ID ready. "Lieutenant Paul Greer, Fort Knox. I have four military personnel and a civilian family of four. We have a wounded—" he paused a half-second, the pause doing the work of a paragraph, "—we have a casualty to report."
+"Specialist." Greer came up to the gate with his ID ready. "Lieutenant Paul Greer, Fort Knox. I have nine military personnel and a civilian family of four. We have a wounded—" he paused a half-second, the pause doing the work of a paragraph, "—we have a casualty to report."
 
 The specialist looked at the ID. Looked at the second vehicle. Did the count.
 
