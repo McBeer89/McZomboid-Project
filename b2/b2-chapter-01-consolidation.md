@@ -1,4 +1,4 @@
-# Chapter Thirteen — *"Consolidation"*
+# Chapter One — *"Consolidation"*
 
 **July 14, 1993 — Checkpoint Harlan, LaRue County, Knox Exclusion Zone**
 
@@ -282,7 +282,7 @@ At the command block, a figure in the doorway. Morrow saw him in the peripheral 
 
 Greer.
 
-He was in the doorway of the command block, one hand on the frame, half-turned toward the interior where the command staff was doing whatever the command staff was doing in the last hours of Checkpoint Harlan. His face was lit by the overhead bulb — the last powered section of the compound, the generators feeding the command block while everything else went dark — and the face was the face Morrow had known since the convoy. Not the road Greer, who had sat in a small room and told the truth about Mitchell and Pawlowski. Not the Harlan Greer, who had been absorbed back into the institution and moved through the compound in jeeps without stopping. Something between them. The face of a man who knew what was happening and had chosen to be inside it because the inside was where his wiring told him to stand.
+He was in the doorway of the command block, one hand on the frame, half-turned toward the interior where the command staff was doing whatever the command staff was doing in the last hours of Checkpoint Harlan. His face was lit by the overhead bulb — the last powered section of the compound, the generators feeding the command block while everything else went dark — and the face was the face Morrow had known since the convoy from Fort Knox — the lieutenant who'd ridden the same road and seen the same things and then walked back into the institution because the institution was where his wiring told him to stand. Not quite the man from the road. Not quite the man the compound had made him. Something between them.
 
 Their eyes met across thirty yards of open ground. The distance was too far for words and the right distance for what passed between them — the recognition, the assessment, the knowledge that two men who respected each other were walking in opposite directions and that neither direction was wrong in the terms of the man walking it.
 
@@ -318,7 +318,7 @@ Morrow processed it. East. The same direction the tactical math pointed — the 
 
 Vasquez touched her breast pocket. "Diane left a note."
 
-He didn't ask what the note said. He didn't need to. The note was a frequency and a direction and the fact of Diane Hutchins leaving a door open for the woman who'd crossed lines for her family, and the frequency was the thread that would lead them to the people who had left Harlan hours ago in two vehicles heading east on a county road with no center line.
+He didn't ask what the note said. He didn't need to. The note was a frequency and a direction and the fact of Diane Hutchins leaving a door open for the woman who'd crossed lines for her family. That was enough. It was more than the institution had given any of them.
 
 "Mount up," Morrow said.
 
@@ -326,7 +326,7 @@ Vasquez got in the passenger seat. Morrow got behind the wheel. He checked the m
 
 Morrow pulled out of the motor pool. East gate — the vehicle entrance that led to the perimeter road, which led to the county roads, which led to the dark. The gate was open. The soldiers who would have manned it were at the south interior fence or the armory or gone.
 
-The perimeter road ran along the outside of the compound's eastern fence. In the headlights — Morrow drove with headlights because driving without them on a road that might contain the dead was a faster way to die than being seen — the fence scrolled past on the left. Through it, the compound. The civilian blocks, dark, the tents still standing in their rows like the set of a play after the audience had left. The armory, lit, vehicles loading. The command block. The staging area where the family had been hours ago, where Gary Hutchins had broken the chain on the fence gate and Marcus had arrived in a stolen Suburban and ten people had driven into the dark.
+The perimeter road ran along the outside of the compound's eastern fence. In the headlights — Morrow drove with headlights because driving without them on a road that might contain the dead was a faster way to die than being seen — the fence scrolled past on the left. Through it, the compound. The civilian blocks, dark, the tents still standing in their rows like the set of a play after the audience had left. The armory, lit, vehicles loading. The command block. The staging area where the civilians had been hours ago — the ones who'd seen the collapse coming before the institution admitted it was happening. The gate was open, the chain cut, the tire marks of two vehicles still visible on the gravel. Gone east. Gone before anyone with rank could decide whether to stop them.
 
 The road curved north, then east, away from the compound. The fence ended. The tree line began — Kentucky hardwoods, oak and hickory, their canopy dense and dark against a sky that was the wrong color, the purple-black that had been the sky's color for days, the stars filtered through whatever was in the atmosphere that made the light wrong.
 
